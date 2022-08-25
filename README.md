@@ -1,4 +1,8 @@
 # American Py
+
+[Temporary URL]:
+https://www.dropbox.com/s/fe986kqcu9uos29/v3-REATLAS--ALison.py?dl=0
+
 Sourced from the Goddess Of Power's REALITY - a program that counts to exactly 2552 based on touch ("FEELING"), covering for infinite mistakes over a 23 Hour period (conventionally known as "Work").
 
 The term "American Py" referes to a dude who regards USA as name of the Cosmos, inspite of living in hostile territory_ Gifted Power already: he might not need Vitamin C!
