@@ -124,6 +124,10 @@ else:
 # NOTE3: If want to join the party fast, just carry out an Unarmed Provocation; wins 33% of the battle a la Jesus Christ OR Alexei Navalny_
 
 # COMMENT1: "Oops, promised another Tattoo": two errors reproduce until resolution :: CounterStrike enabled_
+# COMMENT2: "May no harm come to any one except it occur to i first" - Salman Shuaib // "Defeat your enemy, then embrace him!" - Britney Spears_
+# NOTE1: "The singularity of male chauvinism: Sayyid Ahmed Amiruddin thrives on cowardice among men; he said, and he knows the numbers game: "White
+# girls are toys for Muslim men"_
+
 
 # LESSON: I realize while working on this project that the reason I am poor is I prefer NOT IMPORTANT
 # (Reference: Flavor Technology Inc.) Tasks to exhaustive Tasks that require Energy, such as applying to the Military
