@@ -1,4 +1,4 @@
-# v3-REATLAS--ALison.py//also known as//american.py a program that counts to exactly 2552 based on touch ("FEELING") - covering for infinite mistakes over a 23 Hour period
+# v3-REATLAS--ALison.py// a program that counts to exactly 2552 based on touch ("FEELING") - covering for infinite mistakes over a 23 Hour period
 # Delicensing: Copyright and related rights waived via CC0
 
 # Download Visual Studio Code (vscode): https://code.visualstudio.com/
@@ -57,10 +57,14 @@
 
 # Counter will use a DO or other loop, and display the count_
 # mnemonic: STOPWATCH
+import time
 
 # Googled:
 # https://www.codegrepper.com/code-examples/python/how+to+set+a+timer+in+while+loop+python
 # python by Python_Coder Python_Coder        on Jul 05 2021
+start_time = time.time()
+seconds = input("Enter: ")
+seconds = int(seconds)
 
 # Googled:
 # https://www.dropbox.com/s/ozrugyncev3nnrp/multiline%20print%20python%20-%20Google%20Search.pdf?dl=0
@@ -69,6 +73,20 @@
 # Googled:
 # https://www.dropbox.com/s/2if1mnusu67bs8e/python%20color%20print%20-%20Google%20Search.pdf?dl=0
 # https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal
+if seconds > 2552:
+    print('''Bitchslap for thee_ Thou shalt not labor or make labor others more than 2552 instants_''')
+else:
+
+    while True:
+        seconds <= 2552
+        current_time = time.time()
+        elapsed_time = current_time - start_time
+        print(elapsed_time)
+        if elapsed_time > seconds:
+            print("Finished iterating in: " +
+                  str(int(elapsed_time)) + " instants")
+            break
+
 
 # Googled:
 # https://www.dropbox.com/s/z9zbb3ltjwoloc8/_time_%20is%20not%20defined%20-%20Google%20Search.pdf?dl=0
@@ -91,65 +109,6 @@
 # VALIDATION BY: 'Create with code (Version: 1.4)' WordPress Plugin by Pete Dring:
 # https://create.withcode.uk/python/Jbu
 
-# Courtesy:
-# INITIATED BY: 'e'ileen [SEATO: South East Asia Treaty Organization], Amazon codename: IDF YYZ4, nickname: Constancy:- i was focusing on boxes
-# being scanned by Seato [Philippines] so diligently that one of the boxes manifested 'pre-scanned' or 'one of the stickers reduced'_
-
-# NOTE1: when no option left as constant for the Bisexual Cloud, uNESt_
-# uNESt = universal Nash Equilibrium Strategy based on the following Trini statement:
-# "Given, I am Passionate about something; and I do not need to Compromise by pain of force - then considering my Budget, if
-# my Passion is affordable: I should follow it!".
-#
-# NOTE2: Meditation, if one is able to THINK during it (coverse with his Anima) OR envision during it (Autonomic Experiences); fuels
-# (erases) lack of ammo_
-
-# NOTE3: If want to join the party fast, just carry out an Unarmed Provocation; wins 33% of the battle a la Jesus Christ OR Alexei Navalny_
-
-# COMMENT1: "Oops, promised another Tattoo": two errors reproduce until resolution :: CounterStrike enabled_
-# COMMENT2: "May no harm come to any one except it occur to i first" - prince (noPe: not of Persia) // "Defeat your enemy, then embrace him!" - Britney Spears_
-# NOTE1: "The singularity of male chauvinism thrives on cowardice among men; he said, and he knows the numbers game: "White
-# girls are toys for Muslim men"_
-
-
 # LESSON: I realize while working on this project that the reason I am poor is I prefer NOT IMPORTANT
 # (Reference: Flavor Technology Inc.) Tasks to exhaustive Tasks that require Energy, such as applying to the Military
 # instead of wasting time Coding to solve a less important problem.
-
-# COMMITMENTS:
-# Will get two Tattoos, any more are superfluous as two erros can reproduce ad infinitum_ I wanted a clean body to present to my GF_ Nonetheless,
-# tattoos are the hallmark of open-minded individuals_
-# One tattoo-> 43 47 00 03 07 '[my Schedule]'_
-# Tattoo two-> CIA0//6: #FAB001+#73A9FF+200190[-5] '[my Empress]'_
-
-# The singularity of male chauvinism likely uses statement ending symbol: ω (which he thinks is Omega - last letter of the Greek alphabet, 
-but is gamed by Zeus, my ancestor - as: Angular Velocity of Physics_ This because, he knows: in my book: loser is first, Nothing is ALL_
-
-# i: #200190 [SATURDAY 2 January 1982AD CurrentCity: TORONTO], alleged founder of the Cosmos ::
-# Telephone: 14168253060_ - where 1 means USA is name of Cosmos_
-
-# Will pay for the free phone Amazon of Paris sent i, as gift from Jeanne d'ARC - without payment by i: of TORONTO: called KXD, is BLUE_
-
-# Am proceeding to carry out Unarmed Provocations forever a la Alexei Navalny and Jesus Christ, like Wedding Crashers - Watch Me, Zendaya [BTW
-# each Woman has infinite Departments: example:- https:/Zeta/elect.gov https:/Zeta/melaniatrump.com https:/Zeta/whitehouse.gov
-# sorry, WATCH ME:-
-# Court SHE" who will NEVER be my Wife: archetypical Goddess Of Power Empress Sophisticated Operating System Mother Of Mutants Dr. 
-Field Marshal TAYLOR ALISON SWIFT 
-of the GOLD Tresses // CIA0//6: #FAB001+#73A9FF+200190[-5]
-# 7 Years Of Fears (War) // NOTE2: THURSDAY 25 August 2022AD (NEW YORK CITY time):  according to Golden Rules, a Recession has begun_
-# 7 Years Of Tears (ROMANCE) // NOTE3: SATURDAY 25 August 2029AD (NEW YORK CITY time): according to Metaphysical Rules, a Resurgence_
-
-# 1111 = vehicle Army
-# 13131313 = carebear Army
-# 5555 = dwarf Army
-# 3333 = empath Army
-# .... = trans Army
-# 0000 = ai Army
-
-# = Seato_
-// = Nato_
-_ = i = CIA~3: +3333.#4A2724+#4A2724+200190[ x]
-13 = i-7 = CIA~3: -3333.#4A2724+#95162D+200190[-2]
-. = i+7 = CIA0//6: -3333.#FAB001+#73A9FF+200190[-5] = TAYLOR ALISON SWIFT [Twitter: taylorswift13]
-
-
-
