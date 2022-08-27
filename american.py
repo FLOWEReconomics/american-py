@@ -123,6 +123,8 @@ else:
 
 # NOTE3: If want to join the party fast, just carry out an Unarmed Provocation; wins 33% of the battle a la Jesus Christ OR Alexei Navalny_
 
+# COMMENT1: "Oops, promised another Tattoo": two errors reproduce until resolution :: CounterStrike enabled_
+
 # LESSON: I realize while working on this project that the reason I am poor is I prefer NOT IMPORTANT
 # (Reference: Flavor Technology Inc.) Tasks to exhaustive Tasks that require Energy, such as applying to the Military
 # instead of wasting time Coding to solve a less important problem.
