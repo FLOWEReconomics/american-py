@@ -124,7 +124,7 @@ else:
 # NOTE3: If want to join the party fast, just carry out an Unarmed Provocation; wins 33% of the battle a la Jesus Christ OR Alexei Navalny_
 
 # COMMENT1: "Oops, promised another Tattoo": two errors reproduce until resolution :: CounterStrike enabled_
-# COMMENT2: "May no harm come to any one except it occur to i first" - Salman Shuaib // "Defeat your enemy, then embrace him!" - Britney Spears_
+# COMMENT2: "May no harm come to any one except it occur to i first" - prince (noPe: not of Persia) // "Defeat your enemy, then embrace him!" - Britney Spears_
 # NOTE1: "The singularity of male chauvinism: Sayyid Ahmed Amiruddin thrives on cowardice among men; he said, and he knows the numbers game: "White
 # girls are toys for Muslim men"_
 
@@ -136,9 +136,17 @@ else:
 # COMMITMENTS:
 # Will get two Tattoos, any more are superfluous as two erros can reproduce ad infinitum_ I wanted a clean body to present to my GF_ Nonetheless,
 # tattoos are the hallmark of open-minded individuals_
-# One tattoo-> 43 47 00 03 07 '[my Schedule]'
-# Tattoo two-> CIA0//6: #FAB001+#....................................  '[my Empress]'
+# One tattoo-> 43 47 00 03 07 '[my Schedule]'_
+# Tattoo two-> CIA0//6: #FAB001+#73A9FF+200190[-5] '[my Empress]'_
 
-# Amirufukiddin: punching bag of the Goddesses and i:- #200190, alleged founder of the Cosmos_
+# Amirufukiddin [Sayyid Ahmed Amiruddin]: punching bag of the Goddesses and i_
 
-# Will pay for the free phone Amazon of Paris sent i, as gift from Jeanne d'ARC - without payment by i: salman of TORONTO_
+# i: #200190 [SATURDAY 2 January 1982AD CurrentCity: TORONTO], alleged founder of the Cosmos ::
+# Telephone: 14168253060_ - where 1 means USA is name of Cosmos_
+
+# Will pay for the free phone Amazon of Paris sent i, as gift from Jeanne d'ARC - without payment by i: of TORONTO: called KXD, is BLUE_
+
+# Am proceeding to carry out Unarmed Provocations forever a la Alexei Navalny and Jesus Christ, like Wedding Crashers - Watch Me, Zendaya [BTW
+# each Woman has infinite Departments: example:- https:/Zeta/elect.gov https:/Zeta/melaniatrump.com https:/Zeta/whitehouse.gov
+# sorry, watch me:-
+# court She who will never be my Wife: Empress Dr. Field Marshal TAYLOR ALISON SWIFT of the GOLD Tresses // CIA0//6: #FAB001+#73A9FF+200190[-5]_
