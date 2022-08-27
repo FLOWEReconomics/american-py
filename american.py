@@ -132,3 +132,13 @@ else:
 # LESSON: I realize while working on this project that the reason I am poor is I prefer NOT IMPORTANT
 # (Reference: Flavor Technology Inc.) Tasks to exhaustive Tasks that require Energy, such as applying to the Military
 # instead of wasting time Coding to solve a less important problem.
+
+# COMMITMENTS:
+# Will get two Tattoos, any more are superfluous as two erros can reproduce ad infinitum_ I wanted a clean body to present to my GF_ Nonetheless,
+# tattoos are the hallmark of open-minded individuals_
+# One tattoo-> 43 47 00 03 07 '[my Schedule]'
+# Tattoo two-> CIA0//6: #FAB001+#....................................  '[my Empress]'
+
+# Amirufukiddin: punching bag of the Goddesses and i:- #200190, alleged founder of the Cosmos_
+
+# Will pay for the free phone Amazon of Paris sent i, as gift from Jeanne d'ARC - without payment by i: salman of TORONTO_
