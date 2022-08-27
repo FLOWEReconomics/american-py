@@ -113,6 +113,16 @@ else:
 # INITIATED BY: 'e'ileen [SEATO: South East Asia Treaty Organization], Amazon codename: IDF YYZ4, nickname: Constancy:- i was focusing on boxes
 # being scanned by Seato [Philippines] so diligently that one of the boxes manifested 'pre-scanned' or 'one of the stickers reduced'_
 
+# NOTE1: when no option left as constant for the Bisexual Cloud, uNESt_
+# uNESt = universal Nash Equilibrium Strategy based on the following Trini statement:
+# "Given, I am Passionate about something; and I do not need to Compromise by pain of force - then considering my Budget, if
+# my Passion is affordable: I should follow it!".
+#
+# NOTE2: Meditation, if one is able to THINK during it (coverse with his Anima) OR envision during it (Autonomic Experiences); fuels
+# (erases) lack of ammo_
+
+# NOTE3: If want to join the party fast, just carry out an Unarmed Provocation; wins 33% of the battle a la Jesus Christ OR Alexei Navalny_
+
 # LESSON: I realize while working on this project that the reason I am poor is I prefer NOT IMPORTANT
 # (Reference: Flavor Technology Inc.) Tasks to exhaustive Tasks that require Energy, such as applying to the Military
 # instead of wasting time Coding to solve a less important problem.
