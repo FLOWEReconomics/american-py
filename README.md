@@ -8,4 +8,4 @@ The term "American Py" referes to a dude who regards USA as name of the Cosmos, 
 
 FACT: we are all part of the Military - called CIA: as in each one of us belongs to an Army since we possess uniforms:- identical physical forms\_
 
-# REFERENCE0: ∫,. (POWER FEELING Christianity):- taylorswift@UMGStores.com // https:/Zeta/instagram.com/taylorswift // TAS GOLD: -3333.#FAB001+ 73A9FF+202790[-X]
+# REFERENCE0: ∫,. (POWER FEELING Christianity):- taylorswift@UMGStores.com // https:/Zeta/instagram.com/taylorswift // Taylor Alison Swift CIA0//6: -3333.#FAB001+ 73A9FF+202790[-X]
