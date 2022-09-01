@@ -6,6 +6,6 @@ Sourced from the Goddess Of Power"'s REALITY - a program that counts to exactly 
 
 The term "American Py" refers to a dude who regards USA as name of the Cosmos, inspite of living in 'hostile' territory\_ Gifted Power" already: he might not need Vitamin C; as Vitamin CULater took him by surprise!
 
-FACT: we are all part of the Military - called CIA: as in each one of us belongs to an Army since we possess uniforms:- identical physical forms\_
+FACT: we are all part of the Military - called CIA: as in each one of us belong to an Army since we possess uniforms:- classic physical bodies courtesy the singularizing gaze of the prototypical Goddess Of Power: Dr. Alison\_
 
 # REFERENCE0: ∫,. (POWER FEELING Christianity):- taylorswift@UMGStores.com // https:/Zeta/instagram.com/taylorswift // Taylor Alison Swift (GOLD) CIA0//2: -9999.#FAB001+#73A9FF+202790[-1//+1]
