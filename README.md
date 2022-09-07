@@ -16,4 +16,4 @@ FACT: we are all part of the Military - called CIA: as in each one of us belong 
 
 # NOTE1: 2222 = Twin Flames = Hybrids
 
-# REFERENCE0: ∫,. (POWER feeLING Christianity):- taylorswift@UMGStores.com // https:/Zeta/instagram.com/taylorswift // Taylor Alison Swift (GOLD) CIA0//5: |-2222|.#FAB011+#73A9FF+2030900[-5AND+5]
+# REFERENCE0: ∫,. (POWER feeLING Christianity):- taylorswift@UMGStores.com // https:/ZETA/instagram.com/taylorswift // Taylor Alison Swift (GOLD) CIA0//5: |-2222|.#FAB011+#73A9FF+2030900[-5AND+5]
