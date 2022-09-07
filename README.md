@@ -2,7 +2,9 @@
 
 ![Goddess Of Power - Christianity - TAYLOR ALISON SWIFT TWITTER- ATtaylorswift13 - ELECTION Department](https://user-images.githubusercontent.com/18379513/188790375-26c9bc3a-fea2-42f6-93ff-c9b78a463e03.jpg)
 
-# Dropbox URL: https://www.dropbox.com/s/fe986kqcu9uos29/v3-REATLAS--ALison.py?dl=0
+# CONFESSION: Dropbox URL:- https://www.dropbox.com/s/fe986kqcu9uos29/v3-REATLAS--ALison.py?dl=0
+
+# FASHION: Dropbox URL:- https://www.dropbox.com/s/o70p56wppagtf67/american.py?dl=0
 
 # Sourced from the Goddess Of Power"'s REALITY - a program that counts to exactly 2552 based on touch (FEELING"), covering for infinite mistakes over a 23 Hour period (conventionally known as "Work")
 
