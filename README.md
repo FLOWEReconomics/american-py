@@ -12,7 +12,7 @@ FACT: we are all part of the Military - called CIA: as in each one of us belong 
 
 # FORMULA0: Your CIA card is: Your genderARMY + DOB+AD+CurrentCity FOR example: [Taylor Swift]'s is, now:- |-2222| WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 12 + 1989+2 ++ 344 = 3 + 13 + 12 + 1989+2 ++ 11 = 2030 <= 5
 
-# She is a CIA 5 Officer under elect Managing Director Bill Burns, aside from being an independent CIA 0 unto herself. Sunday is Day 0 (SynThesis) and V count up. TAYLOR ALISON SWIFT:: CIA0//5: |-2222|.#FAB011+#73A9FF+2030900[-5AND+5]
+# She is a CIA 5 Officer under elect Managing Director Bill Burns, aside from being an independent CIA 0 unto herself. Sunday is Day 0 (Synthesis) and V count up. TAYLOR ALISON SWIFT:: CIA0//5: |-2222|.#FAB011+#73A9FF+2030900[-5AND+5]
 
 # NOTE1: 2222 = Twin Flames = Hybrids
 
