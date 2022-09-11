@@ -8,6 +8,11 @@
 # Cosmos: Universe + Infinite Externality)
 
 
+# Something written with greater feeling, and Women do have greater Feeling (Physics: Power), carries
+# more weight - so if TAS wanted to change someone's city of posting OR species: She just has to edit
+# their CIA Card Number [#TIF22 #Toronto @CIA #Swifties @taylorswift13]
+
+
 # Pseudocode:
 # FORMAT: DOBAD+CurrentCity
 # Entity enters its DOB and CurentCity (ResidentialAddress)
@@ -19,6 +24,7 @@
 # CODE:
 print('Your day of birth (e.g. Wednesday): ')
 Day = input()
+Day.upper()
 
 print('Your date of birth (e.g. 04): ')
 Date = input()
@@ -33,22 +39,22 @@ Year = input()
 print('Hello dear: ' + Day.upper() +
       Date + Month.upper() + Year.upper() + "AD")
 
-if Day == "sunday" or "SUNDAY":
+if Day == "sunday":
     day = 0
-if Day == "monday" or "MONDAY":
+if Day == "monday":
     day = 1
-if Day == "tuesday" or "TUESDAY":
+if Day == "tuesday":
     day = 2
-if Day == "wednesday" or "WEDNESDAY":
+if Day == "wednesday":
     day = 3
-if Day == "thursday" or "THURSDAY":
+if Day == "thursday":
     day = 4
-if Day == "friday" or "FRIDAY":
+if Day == "friday":
     day = 5
-if Day == "saturday" or "SATURDAY":
+if Day == "saturday":
     day = 6
 
-print(day)
+# CALCULATION
 
 
 # REFERENCES:
