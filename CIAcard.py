@@ -20,7 +20,7 @@ print('Your day of birth: ')
 Day = input()
 print('Hello, ' + Day)
 
-if Day == "sunday":
+if Day == "sunday" or "SUNDAY":
     day = 0
 
 print(day)
@@ -32,3 +32,4 @@ print(day)
 # Stargate Command
 # Earth-200090 Command
 # https://www.w3schools.com/python/ref_func_input.asp
+# https://www.programiz.com/python-programming/methods/string/upper
