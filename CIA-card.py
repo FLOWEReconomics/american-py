@@ -17,19 +17,20 @@
 # DOB = DAY dd mm yyyy
 
 # CODE:
-print('Your day of birth: ')
+print('Your day of birth (e.g. Wednesday): ')
 Day = input()
 
-print('Your date of birth: ')
+print('Your date of birth (e.g. 04: ')
 Date = input()
 
-print('Your month of birth:')
+print('Your month of birth (e.g. April):')
 Month = input()
 
-print('Your year of birth: ')
+print('Your year of birth: (e.g. 1976')
 Year = input()
 
-print('Hello, ' + Day)
+print('Hello dear flower manifest: ' + Day.uCase() +
+      Date + Month.uCase() + Year.uCase())
 
 if Day == "sunday" or "SUNDAY":
     day = 0
