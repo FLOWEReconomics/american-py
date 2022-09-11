@@ -25,17 +25,17 @@
 global Day
 global daym
 
-print('Day of birth (e.g. Wednesday): ')
+print('Day of birth (e.g. "Saturday" for Day 6 of the Week): ')
 Day = input()
 Day.upper()
 
-print('Date of birth (e.g. 04): ')
+print('Date of birth (e.g. "02" for Day 2): ')
 Date = input()
 
-print('Month of birth (e.g. 04 for April):')
+print('Month of birth (e.g. "01" for January):')
 Month = input()
 
-print('Year of birth: (e.g. 1976):')
+print('Year of birth: (e.g. "1982" for Year 1982AD):')
 Year = input()
 
 
@@ -45,20 +45,20 @@ print('Hello dear: ' + Day.upper() +
 
 def converter(Day):
     if Day == "sunday":
-        daym = 0
+        dayNumber = 0
     if Day == "monday":
-        daym = 1
+        dayNumber = 1
     if Day == "tuesday":
-        daym = 2
+        dayNumber = 2
     if Day == "wednesday":
-        daym = 3
+        dayNumber = 3
     if Day == "thursday":
-        daym = 4
+        dayNumber = 4
     if Day == "friday":
-        daym = 5
+        dayNumber = 5
     if Day == "saturday":
-        daym = 6
-    return (daym)
+        dayNumber = 6
+    # return (daym)
 
 
 print('Currently posted in city (resident of:) ')
@@ -67,9 +67,9 @@ CurrentCity = input()
 
 # CALCULATION
 Scalar = int(converter(Day)) + int(Date) + int(Month) + int(Year) + 2
-print('Scalar: ' + str(Scalar))
+print('Scalar: ' + str(Scalar))  # Good To Go
 
-# PostScalar = (Scalar + len(CurrentCity))
+# PostScalar = (Scalar + int(len(CurrentCity)))
 
 
 # REFERENCES:
@@ -83,3 +83,8 @@ print('Scalar: ' + str(Scalar))
 # https://www.geeksforgeeks.org/python-string-length-len/
 # https://bobbyhadz.com/blog/python-nameerror-name-is-not-defined
 # https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment
+
+# NOTE1: Vitamin D, probably, restores Heterosexuality among men (attraction to Women alone)
+# NOTE2: Centella Asiatica, though Cancerous if consumed too much, is the cure to Longevity as it probably
+# supports Glutathione production in the body (turns Urine yellow, proof: it improves Liver function and
+# Glutathione is the only anti-oxidant native to the Human body.
