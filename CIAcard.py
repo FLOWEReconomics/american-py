@@ -23,6 +23,7 @@
 
 # CODE:
 global Day
+global daym
 
 print('Day of birth (e.g. Wednesday): ')
 Day = input()
@@ -68,16 +69,17 @@ CurrentCity = input()
 Scalar = int(converter(Day)) + int(Date) + int(Month) + int(Year) + 2
 print('Scalar: ' + str(Scalar))
 
-PostScalar = (Scalar + len(CurrentCity))
+# PostScalar = (Scalar + len(CurrentCity))
 
 
 # REFERENCES:
 # taylorswift.com
 # SYNCHRO. 'Circling Shark'
 # Stargate Command
-# Earth-200090 Command
+# Earth Command ~ 200090
 # https://www.w3schools.com/python/ref_func_input.asp
 # https://www.programiz.com/python-programming/methods/string/upper
 # vscode
 # https://www.geeksforgeeks.org/python-string-length-len/
 # https://bobbyhadz.com/blog/python-nameerror-name-is-not-defined
+# https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment
