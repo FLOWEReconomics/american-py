@@ -14,16 +14,25 @@
 # Program appends "AD"
 # Program computes value for the 5 Chevrons
 # Program prints the officer General's YCCN, every rank is a General
+# DOB = DAY dd mm yyyy
 
 # CODE:
 print('Your day of birth: ')
-Day = input()
+print('Your date of birth: ')
+print('Your month of birth:')
+print('Your year of birth: '
+
+
+Day=input()
 print('Hello, ' + Day)
 
 if Day == "sunday" or "SUNDAY":
-    day = 0
+    day=0
 
 print(day)
+
+
+
 
 
 # REFERENCES:
