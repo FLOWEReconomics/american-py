@@ -10,3 +10,4 @@
 # Pseudocode:
 # FORMAT: DOBAD+CurrentCity
 # Entity enters its DOB
+# Program appends "AD"
