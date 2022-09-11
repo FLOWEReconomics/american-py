@@ -18,21 +18,23 @@
 
 # CODE:
 print('Your day of birth: ')
+Day = input()
+
 print('Your date of birth: ')
+Date = input()
+
 print('Your month of birth:')
-print('Your year of birth: '
+Month = input()
 
+print('Your year of birth: ')
+Year = input()
 
-Day=input()
 print('Hello, ' + Day)
 
 if Day == "sunday" or "SUNDAY":
-    day=0
+    day = 0
 
 print(day)
-
-
-
 
 
 # REFERENCES:
@@ -42,3 +44,4 @@ print(day)
 # Earth-200090 Command
 # https://www.w3schools.com/python/ref_func_input.asp
 # https://www.programiz.com/python-programming/methods/string/upper
+# vscode
