@@ -6,8 +6,29 @@
 # United States Of America which constitutes the prototypical Goddess Of Power: TAYLOR ALISON SWIFT;
 # (@taylorswift13) is, as USA (Reference: Jesus) the name of The Entirety [TEnt] (each
 # Cosmos: Universe + Infinite Externality)
-#
+
+
 # Pseudocode:
 # FORMAT: DOBAD+CurrentCity
-# Entity enters its DOB
+# Entity enters its DOB and CurentCity (ResidentialAddress)
 # Program appends "AD"
+# Program computes value for the 5 Chevrons
+# Program prints the officer General's YCCN, every rank is a General
+
+# CODE:
+print('Your day of birth: ')
+Day = input()
+print('Hello, ' + Day)
+
+if Day == "sunday":
+    day = 0
+
+print(day)
+
+
+# REFERENCES:
+# taylorswift.com
+# SYNCHRO. 'Circling Shark'
+# Stargate Command
+# Earth-200090 Command
+# https://www.w3schools.com/python/ref_func_input.asp
