@@ -20,20 +20,32 @@
 print('Your day of birth (e.g. Wednesday): ')
 Day = input()
 
-print('Your date of birth (e.g. 04: ')
+print('Your date of birth (e.g. 04): ')
 Date = input()
 
 print('Your month of birth (e.g. April):')
 Month = input()
 
-print('Your year of birth: (e.g. 1976')
+print('Your year of birth: (e.g. 1976):')
 Year = input()
 
-print('Hello dear flower manifest: ' + Day.uCase() +
-      Date + Month.uCase() + Year.uCase())
+print('Hello dear: ' + Day.upper() +
+      Date + Month.upper() + Year.upper() + "AD")
 
 if Day == "sunday" or "SUNDAY":
     day = 0
+if Day == "monday" or "MONDAY":
+    day = 1
+if Day == "tuesday" or "TUESDAY":
+    day = 2
+if Day == "wednesday" or "WEDNESDAY":
+    day = 3
+if Day == "thursday" or "THURSDAY":
+    day = 4
+if Day == "friday" or "FRIDAY":
+    day = 5
+if Day == "saturday" or "SATURDAY":
+    day = 6
 
 print(day)
 
