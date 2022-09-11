@@ -22,39 +22,47 @@
 # DOB = DAY dd mm yyyy
 
 # CODE:
-print('Your day of birth (e.g. Wednesday): ')
+global Day
+
+print('Day of birth (e.g. Wednesday): ')
 Day = input()
 Day.upper()
 
-print('Your date of birth (e.g. 04): ')
+print('Date of birth (e.g. 04): ')
 Date = input()
 
-print('Your month of birth (e.g. April):')
+print('Month of birth (e.g. 04 for April):')
 Month = input()
 
-print('Your year of birth: (e.g. 1976):')
+print('Year of birth: (e.g. 1976):')
 Year = input()
 
 
 print('Hello dear: ' + Day.upper() +
       Date + Month.upper() + Year.upper() + "AD")
 
-if Day == "sunday":
-    day = 0
-if Day == "monday":
-    day = 1
-if Day == "tuesday":
-    day = 2
-if Day == "wednesday":
-    day = 3
-if Day == "thursday":
-    day = 4
-if Day == "friday":
-    day = 5
-if Day == "saturday":
-    day = 6
+
+def converter(Day):
+    if Day == "sunday":
+        daym = 0
+    if Day == "monday":
+        daym = 1
+    if Day == "tuesday":
+        daym = 2
+    if Day == "wednesday":
+        daym = 3
+    if Day == "thursday":
+        daym = 4
+    if Day == "friday":
+        daym = 5
+    if Day == "saturday":
+        daym = 6
+    return (daym)
+
 
 # CALCULATION
+Scalar = int(converter(Day)) + int(Date) + int(Month) + int(Year) + 2
+print('Scalar:' + Scalar)
 
 
 # REFERENCES:
@@ -65,3 +73,5 @@ if Day == "saturday":
 # https://www.w3schools.com/python/ref_func_input.asp
 # https://www.programiz.com/python-programming/methods/string/upper
 # vscode
+# https://www.geeksforgeeks.org/python-string-length-len/
+# https://bobbyhadz.com/blog/python-nameerror-name-is-not-defined
