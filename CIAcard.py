@@ -60,9 +60,15 @@ def converter(Day):
     return (daym)
 
 
+print('Currently posted in city (resident of:) ')
+CurrentCity = input()
+
+
 # CALCULATION
 Scalar = int(converter(Day)) + int(Date) + int(Month) + int(Year) + 2
 print('Scalar: ' + str(Scalar))
+
+PostScalar = (Scalar + len(CurrentCity))
 
 
 # REFERENCES:
