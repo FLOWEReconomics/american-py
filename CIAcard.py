@@ -85,12 +85,17 @@ print('Scalar: ' + str(Scalar))  # Good To Go
 # https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment
 
 # NOTE1: Vitamin D, probably, restores Heterosexuality among men (attraction to Women alone).
-# NOTE2: Centella Asiatica (Gotu Kola), though Cancerous if consumed too much, is the cure to 
+# NOTE2: Centella Asiatica (Gotu Kola), though Cancerous if consumed too much, is the cure to
 #
-#1. Obesity
-#2. Longevity 
-#3. Irritable Bowel Syndrome 
-# 
-# as it probably
-# supports Glutathione production in the body (turns Urine yellow, improves Liver function; Glutathione 
-# being the body's only native anti-oxidant
+# 1. Obesity
+# 2. Senescence
+# 3. Irritable Bowel Syndrome
+#
+# as it probably supports Glutathione production in the body (turns Urine yellow, improves Liver function; Glutathione
+# being the body's only native anti-oxidant).
+# Plants contain Carbohydrates (Glucose) - which destroy Glutathione, the body's innate defence aginst ROS
+# (Reactive Oxygen Species) and Radicals. This (destruction) is the cause of IBS.
+# Sources of Glutathione: Glutathione drip (e.g. available at Dr. Tara Joan Campbell's in Toronto), Ketogenic
+# Diet - as it restricts Carb intake and switches the body's metabolism ('combustion') to burning 'Ketones'
+# instead of Glucose; the only SUSTAINABLE way to stay off the Glucose diet: become a meat-eater / as vege
+# ketogenic diet not containing meat does not provide 0 Net Carbs like Meats do.
