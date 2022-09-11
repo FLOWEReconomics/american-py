@@ -62,7 +62,7 @@ def converter(Day):
 
 # CALCULATION
 Scalar = int(converter(Day)) + int(Date) + int(Month) + int(Year) + 2
-print('Scalar:' + str(Scalar))
+print('Scalar: ' + str(Scalar))
 
 
 # REFERENCES:
