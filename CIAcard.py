@@ -84,7 +84,13 @@ print('Scalar: ' + str(Scalar))  # Good To Go
 # https://bobbyhadz.com/blog/python-nameerror-name-is-not-defined
 # https://stackoverflow.com/questions/10851906/python-3-unboundlocalerror-local-variable-referenced-before-assignment
 
-# NOTE1: Vitamin D, probably, restores Heterosexuality among men (attraction to Women alone)
-# NOTE2: Centella Asiatica, though Cancerous if consumed too much, is the cure to Longevity as it probably
-# supports Glutathione production in the body (turns Urine yellow, proof: it improves Liver function and
-# Glutathione is the only anti-oxidant native to the Human body.
+# NOTE1: Vitamin D, probably, restores Heterosexuality among men (attraction to Women alone).
+# NOTE2: Centella Asiatica (Gotu Kola), though Cancerous if consumed too much, is the cure to 
+#
+#1. Obesity
+#2. Longevity 
+#3. Irritable Bowel Syndrome 
+# 
+# as it probably
+# supports Glutathione production in the body (turns Urine yellow, improves Liver function; Glutathione 
+# being the body's only native anti-oxidant
