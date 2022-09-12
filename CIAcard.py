@@ -23,7 +23,7 @@
 
 # CODE:
 global Day
-global daym
+global dayNumber
 
 print('Day of birth (e.g. "Wednesday" for Day 3 of the Week): ')
 Day = input()
@@ -43,22 +43,22 @@ print('Hello dear: ' + Day.upper() +
       Date + Month.upper() + Year.upper() + "AD")
 
 
-def converter(Day):
-    if Day == "sunday":
-        dayNumber = 0
-    if Day == "monday":
-        dayNumber = 1
-    if Day == "tuesday":
-        dayNumber = 2
-    if Day == "wednesday":
-        dayNumber = 3
-    if Day == "thursday":
-        dayNumber = 4
-    if Day == "friday":
-        dayNumber = 5
-    if Day == "saturday":
-        dayNumber = 6
-    # return (daym)
+# def converter(Day):
+if Day == "sunday":
+    dayNumber = 0
+if Day == "monday":
+    dayNumber = 1
+if Day == "tuesday":
+    dayNumber = 2
+if Day == "wednesday":
+    dayNumber = 3
+if Day == "thursday":
+    dayNumber = 4
+if Day == "friday":
+    dayNumber = 5
+if Day == "saturday":
+    dayNumber = 6
+# return (dayNumber)
 
 
 print('Currently posted in city (resident of:) ')
@@ -66,7 +66,7 @@ CurrentCity = input()
 
 
 # CALCULATION
-Scalar = int(converter(Day)) + int(Date) + int(Month) + int(Year) + 2
+Scalar = dayNumber + int(Date) + int(Month) + int(Year) + 2
 print('Scalar: ' + str(Scalar))  # Good To Go
 
 # PostScalar = (Scalar + int(len(CurrentCity)))
