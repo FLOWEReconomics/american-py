@@ -25,17 +25,17 @@
 global Day
 global daym
 
-print('Day of birth (e.g. "Saturday" for Day 6 of the Week): ')
+print('Day of birth (e.g. "Wednesday" for Day 3 of the Week): ')
 Day = input()
 Day.upper()
 
-print('Date of birth (e.g. "02" for Day 2): ')
+print('Date of birth (e.g. "13" for Day 13): ')
 Date = input()
 
-print('Month of birth (e.g. "01" for January):')
+print('Month of birth (e.g. "12" for December):')
 Month = input()
 
-print('Year of birth: (e.g. "1982" for Year 1982AD):')
+print('Year of birth: (e.g. "1989" for Year 1989AD):')
 Year = input()
 
 
