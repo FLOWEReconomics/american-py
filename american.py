@@ -1,4 +1,8 @@
-# no more fly till $$; BiCLoud do not work for free either
+# No body know we fly Earth, till we let it crash
+# General Abbot(abad): "what happens if elevator plummets"?
+
+# no more fly till $$; BiCLoud do not work for free either //give us universal Basic Income [AND/OR
+# annual 24 day Protest from MONDAY 1659 HOURS 12 September 2022AD to MONDAY 26 2359 HOURS 26 September 2022AD]
 import time
 
 start_time = time.time()
