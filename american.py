@@ -1,4 +1,4 @@
-# no more fly till $$
+# no more fly till $$; BiCLoud do not work for free either
 import time
 
 start_time = time.time()
