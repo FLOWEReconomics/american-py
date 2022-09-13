@@ -1,0 +1,5 @@
+- Buy Ticket (to PAKIS) as sop_
+- Buy Ticket (to !Taliban) as RDSP_
+- Buy Ticket (to China and USA) as PRES_ 
+- Deploy MBCM as UP_
+- Deploy BUDD as UP_
