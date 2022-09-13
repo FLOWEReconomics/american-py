@@ -1,12 +1,3 @@
-# CHORUS: No body know we fly Earth, till we let it crash
-# GENERAL ABBOTT: "what happens if elevator plummets"?
-# TEAM: "shit hits the fan!"
-# CHRISTIAN: "Freeriders get caught, very certain"
-# CHRISTIANTIY: no more fly till $$; BiCLoud do not work for free either //give us universal Basic Income [AND/OR
-# annual 24 day Protest from MONDAY 1659 HOURS 12 September 2022AD to MONDAY 26 2359 HOURS 26 September 2022AD]
-# Clarification: Taylor Swift AND I have stopped flying Earth
-
-
 import time
 
 start_time = time.time()
