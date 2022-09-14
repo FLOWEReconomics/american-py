@@ -6,4 +6,12 @@ Solution: Canada is only the second largest state of the United States on planet
 Lesson: Canada has (again) won Taylor Alison Swift the right to choose which City to move to_
 
 
+- Four reasons for bug:
+-> In Wrong Directory
+-> GP: Git Push: will tell if filenames longer than allowed (need itsy.py)
+-> SS: SSH is not registering_
+-> Github Large File Storage (may be cause of Bug)
+
+
+
       
