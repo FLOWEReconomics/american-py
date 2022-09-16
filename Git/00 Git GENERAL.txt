@@ -1,7 +1,7 @@
 ﻿- Overcoming discrepancy between ONLINE and OFFLINE Git Instances:
 + No need for Git diff_
 + Just use "Git Fetch" to download online stuff offline_
-+ No need even for "Git Merge"_
++ After download via Git Fetch, need "Git Merge" to pull changes ('change references')_
 
 
 - Overcoming 'git.config' LOCK:
