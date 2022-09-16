@@ -32,7 +32,7 @@ s_
 - git init 
 
 - git fetch
-
++ To download 
 - git merge
 
 - Git takes sometime to update your Github cloud, and may not show progress meter - therefore be patient_
