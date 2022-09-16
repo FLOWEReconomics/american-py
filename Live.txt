@@ -10,8 +10,9 @@ Total 32 (delta 11), reused 0 (delta 0), pack-reused 0
 fatal: the remote end hung up unexpectedly
 Everything up-to-date]:
 
-T-> SS: SSH is not registering_ [-> vscode is unable to access/reference .pub: dwnld extension: Remote-SSH // Command Palette: Remote-SSH: Open SSH Configuration File]_ _ _ _ _ 
+
 A-> GLFS: Github Large File Storage (may be cause of Bug)
+T-> SS: SSH is not registering_ [-> vscode is unable to access/reference .pub: dwnld extension: Remote-SSH // Command Palette: Remote-SSH: Open SSH Configuration File]_ _ _ _ _ 
 E-> GP: Git Push: will tell if filenames longer than allowed (need itsy.py)
 Z-> DIR:In Wrong Directory
 
