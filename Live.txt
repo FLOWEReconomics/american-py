@@ -1,3 +1,28 @@
+- FOUR possible reasons for bug [\+8 FUN\Coding\american-py> git push origin main
+Enumerating objects: 39, done.
+Counting objects: 100% (39/39), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (32/32), done.
+error: RPC failed; curl 18 transfer closed with outstanding read data remaining
+send-pack: unexpected disconnect while reading sideband packet
+Writing objects: 100% (32/32), 33.45 MiB | 1.76 MiB/s, done.
+Total 32 (delta 11), reused 0 (delta 0), pack-reused 0
+fatal: the remote end hung up unexpectedly
+Everything up-to-date]:
+
+T-> SS: SSH is not registering_ [-> vscode is unable to access/reference .pub: dwnld extension: Remote-SSH // Command Palette: Remote-SSH: Open SSH Configuration File]_ _ _ _ _ 
+A-> GLFS: Github Large File Storage (may be cause of Bug)
+E-> GP: Git Push: will tell if filenames longer than allowed (need itsy.py)
+Z-> DIR:In Wrong Directory
+
+
+-> SSH id_ed25519.pub:
+
+
+-> A simpler solution than reading, to default, is punishing oneself gently with the wrong folder 
+opening up on vscode; so that you have to change it to the right directory each time - particularly, as 
+and when prompted by Space Traffic Control (Pole Star?) [STraC]_
+
 I love NYC, but I = TORONTO
 Solution: Canada is only the second largest state of the United States on planet Earth-
 
@@ -6,12 +31,18 @@ Solution: Canada is only the second largest state of the United States on planet
 Lesson: Canada has (again) won Taylor Alison Swift the right to choose which City to move to_
 
 
-- Four reasons for bug:
--> In Wrong Directory
--> GP: Git Push: will tell if filenames longer than allowed (need itsy.py)
--> SS: SSH is not registering_
--> Github Large File Storage (may be cause of Bug)
 
+
+-> Lets play SINGULARITIES 
+
+-> [matrix tablet #4A2724 TOYSOC*]:
+– “CNBC”: Taylor Swift GOLD // Sep 11, 2022AD: !Taliban
+– .CNBC.: Taylor Swift my/your // Sep 13, 2022AD: !Taliban
+– CNBC: GOD (Goddesses Of Destruction) // Oct 13, 2022AD: !Taliban
+– ‘CNBC’: Taylor Swift s1s // Oct 21, 2022AD: !Taliban
+– Cnbc: Goddess // Oct 24, 2022AD: !Taliban
+– cnbc: hero/Goddess: SUNDAY 16 April 2023AD (TORONTO time): !Taliban [CHRISTIAN as UP and Goddess as Queen (CounterStrike mode) VS Taliban]_ 
+* memories are stored in the brain: Trail Of Your Sphere Of Consciousness_
 
 
       
