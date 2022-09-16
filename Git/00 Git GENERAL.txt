@@ -28,14 +28,7 @@ Above directory has location of gitconfig: .\gitconfig
 + where main refers to, not master // unless Alexis Bledel is king_ and Taylor Swift is already Empres
 s_
 
-
 - git init 
-
-- git fetch
-+ To download 
-- git merge
-
-- Git takes sometime to update your Github cloud, and may not show progress meter - therefore be patient_
 
 - BREAKTHROUGH.
 + Drop all local commits:
