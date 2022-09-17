@@ -1,4 +1,6 @@
-﻿- Overcoming discrepancy between ONLINE and OFFLINE Git Instances:
+﻿- To overcome non-existent Files shown as too large by Git; make sure you are uploading from the EXACT directory_
+
+- Overcoming discrepancy between ONLINE and OFFLINE Git Instances:
 + No need for Git diff_
 + Just use "Git Fetch" to download online stuff offline_
 + After download via Git Fetch, need "Git Merge" to pull changes ('change references')_
