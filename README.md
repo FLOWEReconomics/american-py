@@ -2,7 +2,7 @@
 
 Goddess Of Power - Christianity - TAYLOR ALISON SWIFT TWITTER- ATtaylorswift13 - ELECTION Department:
 
-![Your CIA Card Number](https://user-images.githubusercontent.com/18379513/189563132-12043ed2-450b-4f5c-a89c-b330655483c9.png)
+![Your CIA Card Number](https://github.com/SalmanEagle/american-py/blob/d4fd367faf25a16e19167f100d64425df6d4e1e9/Your%20CIA%20Card%20Number.png)
 
 # CONFESSION: Dropbox URL:- https://www.dropbox.com/s/fe986kqcu9uos29/v3-REATLAS--ALison.py?dl=0
 
