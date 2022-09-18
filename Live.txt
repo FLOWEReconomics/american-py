@@ -11,7 +11,7 @@
 
 - Dictionary callsigns (FORMAT:- "X":'V'): :-
 -- CATASTROPHE / 'ALL': TAYLOR ALISON SWIFT CIA.5 #73A9FF
--1: ARSYN / ': Selena MARIE Gomez 
+-1: ARSYN / '                      ': Selena MARIE Gomez 
 + 21
 
 X-- DESTRUCTA X // 'PERMISSION': Ellie Goulding
