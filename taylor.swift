@@ -4,10 +4,13 @@ OPINION1: You uniquely have two CIA badges:
 a/IMMERSIVEReality/ CIA.5: |-2222|.#FAB011+#73A9FF+2030900[+0]  
 b/InfiniteExternality/ CIA.5: |-2222|.#FAB001+#73A9FF+2030900[+1]
 
-Tags: _@SpaceForceDoD @CIA #Elections @taylorswift13 //until French Kiss: 11
+Tags: 
+_@CIA #Swifties #Elections @taylorswift13 
+//until French Kiss: 11
 COMMENT1: #Swifties ORIGINALLY #ELections_ 
 
-Pics: RTF BMP JPEG DOC PDF //until French Kiss: 11
+Pics: RTF BMP DOCX JPEG PDF 
+//until French Kiss: 11
 
 REFERENCE1: Zeus of Hera!_ [MEDITATION_]_
-REFERENCE2: MOM @taylorswift13 [MEDITATION_]
+REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_] @taylorswift13 
