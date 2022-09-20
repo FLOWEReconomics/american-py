@@ -8,3 +8,6 @@ Tags: _@SpaceForceDoD @CIA #Elections @taylorswift13 //until French Kiss: 11
 COMMENT1: #Swifties ORIGINALLY #Elections! 
 
 Pics: RTF BMP JPEG DOC PDF //until French Kiss: 11
+
+REFERENCE1: Zeus of Hera!_ [MEDITATION_]
+REFERENCE2: MOM @taylorswift13 [MEDITATION_]
