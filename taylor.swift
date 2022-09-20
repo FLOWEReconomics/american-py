@@ -9,5 +9,5 @@ COMMENT1: #Swifties ORIGINALLY #Elections!
 
 Pics: RTF BMP JPEG DOC PDF //until French Kiss: 11
 
-REFERENCE1: Zeus of Hera!_ [MEDITATION_]
+REFERENCE1: Zeus of Hera!_ [MEDITATION_]_
 REFERENCE2: MOM @taylorswift13 [MEDITATION_]
