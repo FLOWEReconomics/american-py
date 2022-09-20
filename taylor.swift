@@ -15,4 +15,4 @@ Pics: RTF BMP DOCX JPEG PDF
 
 REFERENCE1: Zeus of Hera!_ [MEDITATION_]_
 REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_] 
-@taylorswift13        
+@taylorswift13       
