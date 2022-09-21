@@ -1,8 +1,11 @@
 Rough Work (RW)
-https://www.instagram.com/p/CijbcdrsqKT/
+REFERENCE00: https://www.instagram.com/p/CijbcdrsqKT/
 + A man can see 1/4 V of Sphere: 1/4 Pi R^2
 + + A man can see 1/4 V of Sphere: 1/4 Pi R^2 h
 ++++ How is this hexacode?
++++++ Count characters, must be 7: such as #73A9ff:- 1 / 4 Pi R ^ 2 h
+
+
 
 -Z> https://twitter.com/SalmanShuaib1/status/1571072069391228928?s=20&t=ff6-SDTLOOnDdfGE1fCPaA
 @taylorswift13
