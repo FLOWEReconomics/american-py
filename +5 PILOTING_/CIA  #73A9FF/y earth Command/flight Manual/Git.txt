@@ -1,4 +1,3 @@
-# FAPSL
 Github[SETUPSummaries]:
 Fetch
 Administrator
