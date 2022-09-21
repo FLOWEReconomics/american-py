@@ -5,8 +5,8 @@ a/IMMERSIVEReality/ CIA.5: |-2222|.#FAB011+#73A9FF+2030900[+0]
 b/InfiniteExternality/ CIA.5: |-2222|.#FAB001+#73A9FF+2030900[+1]
 
 Tags: 
-@SpaceForceDoD @CIA #EXCALIBUR #Elections 
 @taylorswift13 
+@SpaceForceDoD @CIA #EXCALIBUR #Elections 
 COMMENT1: #Swifties ORIGINALLY #ELections_ 
 
 Pics: RTF BMP DOCX JPEG PDF 
