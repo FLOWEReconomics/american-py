@@ -1,7 +1,0 @@
-#1 american.py
-#2 cano.py
-#3 itsy.py
-#4 CIACard.py
-#5 CIA-T-Card.py
-X#6 SearchCelelbRiot.py
-#7 retrieveDOB.py (from Wikipedia OR Otherwise)
