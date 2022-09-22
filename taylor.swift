@@ -15,5 +15,5 @@ REFERENCE1: Zeus of Hera!_ [MEDITATION_]_
 REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_] 
 
 Safe: "Retrieve DOB from Wikipedia OR Otherwise"
-REFERENCE1 : image.png  [Memory (Recollection, Recall) Test]                
+REFERENCE1 : image.png  [Memory (Recollection, Recall) Test]                 
 @taylorswift13   
