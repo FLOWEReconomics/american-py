@@ -14,6 +14,7 @@ Pics: RTF BMP DOCX JPEG PDF
 REFERENCE1: Zeus of Hera!_ [MEDITATION_]_
 REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_] 
 
+Does not compute: https://www.msn.com/en-ca/news/world/angelina-jolie-meets-pakistan-flood-victims/vi-AA1280tS?ocid=msedgntp&cvid=3e7b1c1339a1425d911261e304c8d8b3&category=foryou
 Safe: "Retrieve DOB from Wikipedia OR Otherwise"
 REFERENCE1 : image.png  [Memory (Recollection, Recall) Test]                  
 @taylorswift13   
