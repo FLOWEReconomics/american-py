@@ -6,7 +6,7 @@ b/INFINITEEXTERNALITY/ CIA.5: |-2222|.#FAB001+#73A9FF+2030900[+1]
 
 Tags: 
 @taylorswift13 
-@SpaceForceDoD @CIA # #Elections 
+@SpaceForceDoD @CIA #  #Elections 
 COMMENT1: #Swifties ORIGINALLY #ELections_ 
 
 Pics: RTF BMP DOCX JPEG PDF 
@@ -15,5 +15,5 @@ REFERENCE1: Zeus of Hera!_ [MEDITATION_]_
 REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_] 
 
 
-REFERENCE1 : image.png              
+REFERENCE1 : image.png               
 @taylorswift13                                                     
