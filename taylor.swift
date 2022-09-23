@@ -6,7 +6,7 @@ b/INFINITEEXTERNALITY/ CIA.5: |-2222|.#FAB001+#73A9FF+2030900[+1]
 
 Tags: 
 @taylorswift13 
-@SpaceForceDoD @CIA #  #Elections 
+@SpaceForceDoD @CIA #Elections 
 COMMENT1: #Swifties ORIGINALLY #ELections_ 
 
 Pics: RTF BMP DOCX JPEG PDF 
