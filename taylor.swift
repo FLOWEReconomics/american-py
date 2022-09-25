@@ -4,7 +4,11 @@ OPINION1: You uniquely have two CIA badges:
 a/IMMERSIVEReality/ CIA.5: |-2222|.#FAB011+#73A9FF+2030900[+0]  
 b/INFINITEEXTERNALITY/ CIA.5: |-2222|.#FAB001+#73A9FF+2030900[+1]
 
-Tags: 
+-E> https://www.pinterest.ca/pin/255931191316485375/ 
+[Her CIA Card]
+
+
+-> Tags: 
 @taylorswift13 
 @SpaceForceDoD @CIA #Elections 
 COMMENT1: #Swifties ORIGINALLY #ELections_ 
