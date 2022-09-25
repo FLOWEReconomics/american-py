@@ -19,4 +19,4 @@ REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_]
 -> Safe: "Retrieve DOB from Wikipedia OR Otherwise" 
 ->REFERENCE1 : image.png  [Memory (Recollection, Recall) Test]                  
 -> [TWITTER] @taylorswift13  
--> CIA.5 |-2222|.#FAB011+#73A9FF+2030900[+0]: TAYLOR ALISON SWIFT                               
+-> CIA.5 |-2222|.#FAB011+#73A9FF+2030900[+0]: TAYLOR ALISON SWIFT                                                                 
