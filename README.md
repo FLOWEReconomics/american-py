@@ -2,7 +2,8 @@ SALMAN C_ SHUAIB
 # American Py 
 Mission Statement: Open Source Entirety [United States of America]:- 
 + Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO time)_
-+ This means that each Woman can  
++ This means that each Woman can marry or date multiple dudes at the same time: a Level 100, a Level 200 dude, or a Level 1 Billion dude et cetera_
++ They are a very CAPABLE Species_  
 
 
 A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23\* General, Dr. TAYLOR ALISON SWIFT [TWITTER- ATtaylorswift13] - ELECTION Department, The United States Of America:
