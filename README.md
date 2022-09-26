@@ -1,6 +1,6 @@
-+ "Small Py Big Fight, Big Py No Fight" ~ #earthen: differentiated Anthropomorphic Binary Computation [dABC] 
-+ "Get attacked, relieve ally" ~ #MerciBeaucoup: Liberty Egalite Actualites fraternity Sexualite [LEAfS]
-+ "CIA.5 = CIA_2 + CIA⚡8" ~ #EasyA: SYNTHESIS = thesis + Antithesis
++ "Small Py Big Fight, Big Py No Fight" ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS] 
++ "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computation [dABC] 
++ "CIA.5 = CIA_2 + CIA⚡8" ~ #EasyA: SYNTHESIS = thesis + Antithesis [Avatar]
 + "When a Warrior falls off her horse, even the accountant renders advice on how to ride " ~ #Irrationality: universal Nash Equilibrium Strategy [uNESt] 
 + 
 
