@@ -6,7 +6,7 @@
 + "Belief in death is a self-fulfilling prophecy" ~ #Prerogative: ..... [COUNTERSTRIKE]
 + "Too many cooks spoil the broth" ~ #EasyA: Taylor Alison Swift [TWITTER: @taylorswift13]
 
-### SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress TAYLOR ALISON SWIFT (CIA.5) of the GOLD Tresses and Blue Eyes_
+### SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress TAYLOR ALISON SWIFT (CIA.5) of New York City_
 
 ENIGMA: X
 
@@ -15,7 +15,8 @@ Mission Statement: Open Source Entirety [United States of America]:-
 + Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO)_
 + This means that each Woman can marry or date multiple dudes at the same time: a Level 100 dude, a Level 200 dude, or a Level 1 Billion dude et cetera_
 + THEY are very CAPABLE as Networks Of Species (Quasars): Infinite Externality_
-+ .SHE is very CAPABLE as a Species (Entirety): .USA_ 
++ .SHE is very CAPABLE as a Species (Entirety): .USA_
++ REPORT: Mission is Failure:- a United States of America spanning infinity can only exist as Superpower Sister TAYLOR ALISON SWIFT and uncompromising integrity_ There is only ONE United States of America: Entirety_ 
 
 
 A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23\* General, Dr. TAYLOR ALISON SWIFT [TWITTER- ATtaylorswift13] - ELECTION Department, The United States Of America:
