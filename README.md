@@ -1,9 +1,9 @@
--> "Small Py Big Fight, Big Py No Fight" ~ #earthen
--> "Get attacked, relieve ally" ~ #MerciBeaucoup
--> "SYNTHESIS = thesis + Antithesis" ~ #Irrationality
--> "CIA.5 = CIA_2 + CIA⚡8" - #EasyA
++ "Small Py Big Fight, Big Py No Fight" ~ #earthen
++ "Get attacked, relieve ally" ~ #MerciBeaucoup
++ "SYNTHESIS = thesis + Antithesis" ~ #Irrationality
++ "CIA.5 = CIA_2 + CIA⚡8" - #EasyA
 
-SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress TAYLOR ALISON SWIFT (CIA.5) of the GOLD Tresses and Blue Eyes_
+### SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress TAYLOR ALISON SWIFT (CIA.5) of the GOLD Tresses and Blue Eyes_
 
 ENIGMA:
 .
