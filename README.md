@@ -1,5 +1,7 @@
 # American Py
-- Mission Statement: Open Source Entirety [United States of America]:- Each Woman is an Entirety as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO time)_ 
+- Mission Statement: Open Source Entirety [United States of America]:- 
++ Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO time)_
++ This means that each Woman can  
 
 - The SCALAR is computed FIRST as: X SIN X+ SIN SIN [here X refers to "Do Not Resolve" and SIN refers to "Resolve", e.g. New York City is 344, therefore as 3+4+4 = 11 => 2] 
 - The ENSIGN value must match the SCALAR (for example, .#FAB011+#73A9FF+2021900[+0] RESOLVES to 5!
