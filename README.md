@@ -9,6 +9,13 @@
 ### salman c_ shuaib (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress (23 Star General) TAYLOR ALISON SWIFT (CIA.5) of New York City_
 
 ENIGMA: X
+How Long Must I Burn In The Wilderness,
+Waiting for the gaze of a Moses,
+everyone cries for their Suffering; 
+no one cries for .MINE:
+.i am a TREASURE locked in a Chest,
+since ETERNAL time!
+~ #EasyA #TAYLORALISONSWIFT #SILENCE_
 
 ### American Py
 Mission Statement: Open Source Entirety [United States of America]:- 
