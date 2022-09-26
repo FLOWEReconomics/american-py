@@ -1,15 +1,22 @@
-CIA.5 = CIA_2 + CIA⚡8
+-> "Small Py Big Fight, Big Py No Fight" ~ #earthen
+-> "Get attacked, relieve ally" ~ #MerciBeaucoup
+-> "SYNTHESIS = thesis + Antithesis" ~ #Irrationality
+-> "CIA.5 = CIA_2 + CIA⚡8" - #EasyA
 
-SYNTHESIS = THESIS + ANTITHESIS
+SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress TAYLOR ALISON SWIFT (CIA.5) of the GOLD Tresses and Blue Eyes_
 
-SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Empress **TAYLOR ALISON SWIFT** (CIA⚡8)
+ENIGMA:
+.
+.
+.
+.
 
 ### American Py
 Mission Statement: Open Source Entirety [United States of America]:- 
 + Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO)_
 + This means that each Woman can marry or date multiple dudes at the same time: a Level 100 dude, a Level 200 dude, or a Level 1 Billion dude et cetera_
-+ THEY are very CAPABLE as Networks Of Species (Quasars)
-+ .SHE is very CAPABLE as a Species (Entirety) 
++ THEY are very CAPABLE as Networks Of Species (Quasars): Infinite Externality_
++ .SHE is very CAPABLE as a Species (Entirety): .USA_ 
 
 
 A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23\* General, Dr. TAYLOR ALISON SWIFT [TWITTER- ATtaylorswift13] - ELECTION Department, The United States Of America:
