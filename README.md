@@ -3,7 +3,7 @@
 + "CIA.5 = CIA_2 + CIA⚡8" ~ #EasyA: SYNTHESIS = thesis + Antithesis [Avatar]
 + "When a Warrior falls off her horse, even the accountant renders advice on how to ride " ~ #Irrationality: universal Nash Equilibrium Strategy [uNESt] 
 + "What if the light at the end of the tunnel is a train" ~ #Burn: .... [DESTRUCTA X]
-+ "Belief in death is a self-fulfilling prophecy" ~ #Prerogative: ..... [COUNTERSTRIKE]
++ "Belief in death is a self-fulfilling prophecy" ~ #Prerogative: ..... [CounterStrike]
 + 'Too many cooks spoil the broth' ~ #EasyA: Taylor Alison Swift [TWITTER: @taylorswift13]
 
 ### salman c_ shuaib (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress (23 Star General) TAYLOR ALISON SWIFT (CIA.5) of New York City_
