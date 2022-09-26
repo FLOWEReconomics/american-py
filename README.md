@@ -1,5 +1,5 @@
 FROM: **TAYLOR ALISON SWIFT** (CIA⚡8)
-# American Py **via** salman christian shuaib (CIA_2)  
+# American Py **via** christian (CIA_2)  
 Mission Statement: Open Source Entirety [United States of America]:- 
 + Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO)_
 + This means that each Woman can marry or date multiple dudes at the same time: a Level 100 dude, a Level 200 dude, or a Level 1 Billion dude et cetera_
