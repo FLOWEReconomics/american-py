@@ -1,4 +1,4 @@
-SALMAN C_ SHUAIB
+# TAYLOR ALISON SWIFT (Bronze)
 # American Py 
 Mission Statement: Open Source Entirety [United States of America]:- 
 + Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO time)_
