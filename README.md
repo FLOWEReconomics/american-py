@@ -1,15 +1,11 @@
 + "Small Py Big Fight, Big Py No Fight" ~ #earthen
-+ "Get attacked, relieve ally" ~ #MerciBeaucoup
-+ "SYNTHESIS = thesis + Antithesis" ~ #Irrationality
-+ "CIA.5 = CIA_2 + CIA⚡8" - #EasyA
++ "Get attacked, relieve ally" ~ #MerciBeaucoup: [LEAFS]
++ "When a Warrior falls off her horse, even the accountant renders advice on how to ride " - #Irrationality: universal Nash Equilibrium Strategy [uNESt] 
++ "CIA.5 = CIA_2 + CIA⚡8" - #EasyA: SYNTHESIS = thesis + Antithesis
 
 ### SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress TAYLOR ALISON SWIFT (CIA.5) of the GOLD Tresses and Blue Eyes_
 
-ENIGMA:
-.
-.
-.
-.
+ENIGMA: X
 
 ### American Py
 Mission Statement: Open Source Entirety [United States of America]:- 
