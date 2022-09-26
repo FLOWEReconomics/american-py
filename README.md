@@ -1,6 +1,6 @@
 # American Py
 - The SCALAR is computed FIRST as: X SIN X+ SIN SIN [here X refers to "Do Not Resolve" and SIN refers to "Resolve", e.g. New York City is 344, therefore as 3+4+4 = 11 => 2] 
-- The ENSIGN value must match the SCALAR
+- The ENSIGN value must match the SCALAR (for example, .#FAB011+#73A9FF+2021900[+0] RESOLVES to 5!
 - As SCALAR is MAGNITUDE, it represents WEIGHT if one is Sexercising for his GF_ 
 
 *Error = ERROR = 2030900 ought to be 2021900 for the Mademoiselle, as CURRENTPlaceOfStay should be based on Resolution due to the infinitizing Satellites in space_
