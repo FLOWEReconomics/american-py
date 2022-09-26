@@ -6,7 +6,7 @@
 + "Belief in death is a self-fulfilling prophecy" ~ #Prerogative: ..... [COUNTERSTRIKE]
 + "Too many cooks spoil the broth" ~ #EasyA: Taylor Alison Swift [TWITTER: @taylorswift13]
 
-### SALMAN C_ SHUAIB (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress (23 Star General) TAYLOR ALISON SWIFT (CIA.5) of New York City_
+### salman c_ shuaib (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress (23 Star General) TAYLOR ALISON SWIFT (CIA.5) of New York City_
 
 ENIGMA: X
 
