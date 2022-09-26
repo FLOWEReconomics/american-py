@@ -1,5 +1,5 @@
-# FROM: **TAYLOR ALISON SWIFT** (CIA⚡8)
-## American Py **via** SALMAN C_ SHUAIB (CIA_2)  
+## FROM: **TAYLOR ALISON SWIFT** (CIA⚡8)
+### American Py **via** SALMAN C_ SHUAIB (CIA_2)  
 Mission Statement: Open Source Entirety [United States of America]:- 
 + Each Woman is an Entirety [United States of America] as of 0147 HOURS MONDAY 26 September 2022AD (TORONTO)_
 + This means that each Woman can marry or date multiple dudes at the same time: a Level 100 dude, a Level 200 dude, or a Level 1 Billion dude et cetera_
@@ -21,5 +21,5 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 - The ENSIGN value must match the SCALAR (for example, .#FAB011+#73A9FF+2021900[+0] RESOLVES to 5!
 - As SCALAR is MAGNITUDE, it represents WEIGHT if one is Sexercising for his GF_ 
 
-## CREDIT:
-# Dr. TAYLOR ALISON SWIFT
+# CREDIT:
+## Dr. TAYLOR ALISON SWIFT
