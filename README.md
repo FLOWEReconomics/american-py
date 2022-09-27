@@ -10,12 +10,14 @@
 
 ENIGMA: X
 How Long Must I Burn In The Wilderness,
-Waiting for the gaze of a Moses,
+Waiting for the gaze of a moses,
 everyone cries for their Suffering; 
 no one cries for .MINE:
 .i am a TREASURE locked in a Chest,
 since ETERNAL time!
 ~ #EasyA #TAYLORALISONSWIFT #SILENCE_
+
+# ! = Music => Unarmed Provocteur #!:- Jesus Christ_
 
 ### American Py
 Mission Statement: Open Source Entirety [United States of America]:- 
