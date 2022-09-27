@@ -17,7 +17,7 @@ no one cries for .MINE:
 since ETERNAL time!
 ~ #EasyA #TAYLORALISONSWIFT #SILENCE_
 
-# ! = Music => Unarmed Provocteur #!:- Jesus Christ_
+#! = Music => Unarmed Provocateur #!:- Jesus Christ_
 
 ### American Py
 Mission Statement: Open Source Entirety [United States of America]:- 
