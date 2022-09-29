@@ -1,4 +1,4 @@
-![CCN-M - CIA Card Number - M:](https://github.com/SalmanEagle/american-py/blob/main/CCN-M%20-%20%5BCIA%20Card%20Number%20-%20M%5D.png)\_ \_
+![CCN-M - CIA Card Number - M:](https://github.com/SalmanEagle/american-py/blob/main/CCN-M%20-%20%5BCIA%20Card%20Number%20-%20M%5D.png)
 
 + 'Small Py Big Fight, Big Py No Fight' ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS] 
 + "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computater [dABC] 
