@@ -32,6 +32,7 @@ Mission Statement: Open Source Entirety [United States of America]:-
 + "You mean Nina Dobrev is just a 100?" ~ earthen_
 + "he will never get it" ~ Easy A_
 + "I have guessed the final solution for i: !Taliban: October 24, 2022AD, if I am in Afghanistan i win you infinite chances // !Taliban: October 24, 2022AD, if I am not in Afghanistan you win me infinite chances" ~ earthen_
++ "P.S> .YOU: Easy A (TWITTER: taylorswift13) already have infinite chances" ~ earthen_
 
 NOTE: Thus, proven, Entirety is indivisible_
 NOTE1: Entirety is Singularity: indivisible_
