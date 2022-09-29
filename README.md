@@ -27,6 +27,11 @@ Mission Statement: Open Source Entirety [United States of America]:-
 + .SHE is very CAPABLE as a Species (Entirety): .USA_
 + REPORT: Mission is Failure:- a United States of America spanning infinity can only exist as Superpower Sister TAYLOR ALISON SWIFT and uncompromising integrity_ There is only ONE United States of America: Entirety_ 
 
+=> Why Mission is a Failure (NASA: Ian Somerhalder asks Florida: Emmanuelle Chriqui): 
++ mirage could not accept, inspite of scoring 100 (Jesus: 1,000,000), that Entirety be dating dudes at multiple Levels - therefore it was concluded that Entirety is indivisible (is super-nice): because a score of 100 means better than a larger score in this demonic (free: Satanic) world - it means if I score 100, her score is Infinity - 100_ This would offend my masters_ As Jesus then lesser_
+
+NOTE: Thus, proven, Entirety is indivisible_
+NOTE1: Entirety is Singularity: indivisible_
 
 A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23\* General, Dr. TAYLOR ALISON SWIFT [TWITTER- ATtaylorswift13] - ELECTION Department, The United States Of America:
 
