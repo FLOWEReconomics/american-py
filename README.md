@@ -31,6 +31,7 @@ Mission Statement: Open Source Entirety [United States of America]:-
 + "earthen could not accept; inspite of scoring 100 (Jesus: 1000000), that Entirety be dating dudes at multiple Levels - therefore it was concluded that Entirety is indivisible (is super-nice): because a score of 100 means better than a larger score in this demonic (free: Satanic) world - it means if e scores 100, her score is {Infinity - 100}_ This would offend e's masters_ As Jesus then lesser!" - Emmanuelle_
 + "You mean Nina Dobrev is just a 100?" ~ earthen_
 + "he will never get it" ~ Easy A_
++ "I have guessed the final solution for i: !Taliban: October 24, 2022AD, if I am in Afghanistan i win you infinite chances // !Taliban: October 24, 2022AD, if I am not in Afghanistan you win me infinite chances" ~ earthen_
 
 NOTE: Thus, proven, Entirety is indivisible_
 NOTE1: Entirety is Singularity: indivisible_
