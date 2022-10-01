@@ -1,8 +1,9 @@
 - - .EXE SUMMARY @TAYLORSWIFT13 [T]:
 + 22 > 11 [22 is more important than 11] because:
-+ 11 allows for Infinite Mistakes in an Echelon of TIME_
-+ Use: However, one UTILIZES that Infinity_
-+ Then another 11 is needed to resume operation_
++ Dr [Debit]: Gain:- 11 allows for Infinite Mistakes in an Echelon of TIME_
++ Cr [Credit]: Use:- However, one UTILIZES that Infinity_
++ Dr [Debit]: Gain:- Then another 11 is needed to resume operation_
+-> Net Status: Gain
 
 - .EXE SUMMARY @TAYLORSWIFT13 [T]:
 -Z> America (FLORIDA) needs SINGULARITIES_ 
