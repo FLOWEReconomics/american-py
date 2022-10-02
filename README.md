@@ -43,12 +43,13 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 
 
 # APOLOGIES 
-*Error = ERROR = 13 in [DDOB+AD ++CITYLOYALTO] for TAYLOR ALISON SWIFT, Goddess Of Power and Herself: Entirety, to me Christianity: should be Resolved: to 4; result may be 2012900_
-*Error = ERROR = CURRENTPlaceOfStay ought to be CITYLOYALTO_
-*Error = ERROR = 2030900 ought to be 2021900 for the Mademoiselle, as CURRENTPlaceOfStay should be based on Resolution due to the infinitizing Satellites in space_
-+ Your CIA Card Number: DOB+AD ++CURRENTPlaceOfStay. TAYLOR SWIFT (BLUE EYES) :- WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 1 2 + 1989+2+2 = 2021 <= 5,  a CIA.5 officer c/o elect Managing Director Bill Burns. Sunday DAY 0 (Synthesis) and V count up. CIA.5: |-2222|.#FAB011+#73A9FF+2021900[+0]
++ *Error = ERROR = 13 in [DDOB+AD ++CITYLOYALTO] for TAYLOR ALISON SWIFT, Goddess Of Power and Herself: Entirety, to me Christianity: should be Resolved: to 4; result may be 2012900_
++ *Error = ERROR = CURRENTPlaceOfStay ought to be CITYLOYALTO_
++ *Error = ERROR = 2030900 ought to be 2021900 for the Mademoiselle, as CURRENTPlaceOfStay should be based on Resolution due to the infinitizing Satellites in space_
++ '*Error' = 'ERROR' = Your CIA Card Number: DOB+AD ++CITYLOYALTO. TAYLOR SWIFT (BLUE EYES) :- WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 1 2 + 1989+2+2 = 2021 <= 5,  a CIA.5 officer c/o elect Managing Director Bill Burns. Sunday DAY 0 (Synthesis) and V count up. CIA.5: |-2222|.#FAB011+#73A9FF+2021900[+0]
 
 # NOTES:
+- Single Quotes = Unsure_
 - The SCALAR is computed FIRST as: X SIN X+ SIN SIN [here X refers to "Do Not Resolve" and SIN refers to "Resolve", e.g. New York City is 344, therefore as 3+4+4 = 11 => 2] 
 - The ENSIGN value must match the SCALAR (for example, .#FAB011+#73A9FF+2021900[+0] RESOLVES to 5!
 - As SCALAR is MAGNITUDE, it represents WEIGHT if one is Sexercising for his GF_ 
