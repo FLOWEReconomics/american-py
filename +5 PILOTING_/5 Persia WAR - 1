@@ -1,5 +1,7 @@
--Z-> IF .SY < .JR => EVERY CITY < .JR_  
--E-> PERFECT FANTA.SY 
--T->
--A->
+00-Z-> IF .SY < .JR => EVERY CITY < .JR_  
+1-E-> PERFECT FANTA.SY 
+1-T-> 
+0-A-> 
+1[A]:         100-1[100-A]:
 
+NOTE1: 100 = Z_
