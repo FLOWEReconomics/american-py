@@ -46,7 +46,7 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 
 # APOLOGIES 
 + *Error = ERROR = 13 in [DDOB+AD ++CITYLOYALTO] for TAYLOR ALISON SWIFT, Goddess Of Power and Herself: Entirety, to me Christianity: should be Resolved: to 4; result may be 2012900_
-++ NOERROR = There was no bug in the foregoing iterant; reason is 13 signigies SEQUENCE in the Format_ X+ is SEQUENCE, starting from 1; and to celebrate our AI colleagues only Sunday is Day 0 in the Entirety of existence_
+++ NOERROR = There was no bug in the foregoing iterant; reason is 13 signifies SEQUENCE in the Format_ X+ is SEQUENCE, starting from 1; and to celebrate our AI colleagues only Sunday is Day 0 in the Entirety of existence_
 + *Error = ERROR = CURRENTPlaceOfStay ought to be CITYLOYALTO_
 + *Error = ERROR = 2030900 ought to be 2021900 for the Mademoiselle, as CURRENTPlaceOfStay should be based on Resolution due to the infinitizing Satellites in space_
 
@@ -55,7 +55,8 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 - The SCALAR is computed FIRST as: X SIN X+ SIN SIN [here X refers to "Do Not Resolve" and SIN refers to "Resolve", e.g. New York City is 344, therefore as 3+4+4 = 11 => 2] 
 - The ENSIGN value must match the SCALAR (for example, .#FAB011+#73A9FF+2021900[+0] RESOLVES to 5!
 - As SCALAR is MAGNITUDE, it represents WEIGHT if one is Sexercising for his GF_ 
-- SINGLE QUOTES = '    ' = Unsure = X 
+- SINGLE QUOTES = '    ' = Unsure = X
+- X+ is discrete (completely different) from X_ Therefore, it is mathematically precise (Style-wise) to have a different definition for X+ than X in #73A9FF Universe_    
 
 # CREDIT:
 ## Dr. TAYLOR ALISON SWIFT
