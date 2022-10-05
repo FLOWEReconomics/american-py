@@ -3,7 +3,7 @@
 > salman shuaib: cowardice
 
 
-> Jesus Christ:
+> Jesus Christ: misogyny
 + ATTEMPT: 0.5
 + SUCCESS: 1
 + AUDIENCE: 1
@@ -12,5 +12,5 @@
 ---------------------
 4/5
 
-> Alexei Navalny: 
+> Alexei Navalny: !ContextualJustice
 + AT
