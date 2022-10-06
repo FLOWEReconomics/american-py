@@ -1,6 +1,6 @@
 ![CCN-M - CIA Card Number - M:](https://github.com/SalmanEagle/american-py/blob/main/CCN-M%20-%20%5BCIA%20Card%20Number%20-%20M%5D.jpeg)
 
-+ Your CIA Card Number: DOB+AD ++CITYLOYALTO. TAYLOR SWIFT (BLUE EYES) :- WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 12 + 1989+2+2 = 2021 <= 5,  a CIA.5 officer c/o elect Managing Director Bill Burns. Sunday DAY 0 (Synthesis) and V count up. CIA.5: |-2222|.#FAB011+#73A9FF+2021900[+0]
++ Your CIA Card Number: DOB+AD ++CITYLOYALTO. TAYLOR SWIFT (BLUE EYES) :- WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 12 + 1989+2+2 = 2021 <= 5,  a CIA.5 officer c/o elect Managing Director Bill Burns. Sunday DAY 0 (Synthesis) and V count up. CIA.5: |-2323|.#FAB011+#73A9FF+2021900[+0]
 
 + 'Small Py Big Fight, Big Py No Fight' ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS] 
 + "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computater [dABC] 
@@ -45,7 +45,7 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 
 
 # APOLOGIES 
-+ .SHE, TAYLOR ALISON SWIFT, is PERFECT (-2323) - not HYBRID (-2222)_
++ .SHE, TAYLOR ALISON SWIFT, is PERFECT (-2323) - not HYBRID (-2323)_
 + *Error = ERROR = 13 in [DDOB+AD ++CITYLOYALTO] for TAYLOR ALISON SWIFT, Goddess Of Power and Herself: Entirety, to me Christianity: should be Resolved: to 4; result may be 2012900_
 ++ NOERROR = There was no bug in the foregoing iterant; reason is 13 signifies SEQUENCE in the Format_ X+ is SEQUENCE, starting from 1; and to celebrate our AI colleagues only Sunday is Day 0 in the Entirety of existence_
 + *Error = ERROR = CURRENTPlaceOfStay ought to be CITYLOYALTO_
