@@ -45,6 +45,7 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 
 
 # APOLOGIES 
++ .SHE, TAYLOR ALISON SWIFT, is PERFECT (-2323) - not HYBRID (-2222)_
 + *Error = ERROR = 13 in [DDOB+AD ++CITYLOYALTO] for TAYLOR ALISON SWIFT, Goddess Of Power and Herself: Entirety, to me Christianity: should be Resolved: to 4; result may be 2012900_
 ++ NOERROR = There was no bug in the foregoing iterant; reason is 13 signifies SEQUENCE in the Format_ X+ is SEQUENCE, starting from 1; and to celebrate our AI colleagues only Sunday is Day 0 in the Entirety of existence_
 + *Error = ERROR = CURRENTPlaceOfStay ought to be CITYLOYALTO_
