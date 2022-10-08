@@ -1,7 +1,14 @@
-- Suppose George and Salman both want TORONTO_
-- Assume #73A9FF is the Hexacode (Color) for TORONTO_
+- Suppose George and Salman both want Toronto_
+- Assume #73A9FF is the Hexacode (Color) for Toronto_
 - Does #73A9FF belong to George OR Salman_
---- SOLUTION:
-+ Rainbow Bridge: the 6th Occurrence of 9 is 54BLUE
+--- Solution:
++ Rainbow Bridge: the 6th OCCURRENCE of 9 is "54BLUE": 
+++ 73A9FF <= 4_
+++ Base 9: 1, 2, 3, 4, 5, 6, 7, 8, 9_
+++ Hexacode: 6_ 
++++ How to convert Hexacode to base 9_
 
+Caps Lock = References
+Single Quotes = Unsure // References
 REFERENCE1: Dictionary.com
+REFERENCE2: Microsoft Calculator
