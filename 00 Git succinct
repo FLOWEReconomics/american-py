@@ -1,24 +1,30 @@
-00: git init
+ADMINISTRATOR:- run vscode as Administrator
+GOD (Indescribable): git init
 
-0: git status
+G0D: git status
 
 -> REMOTE: git remote add origin "https://github.com/SalmanEagle/american-py.git"
+
+-> PULL: git pull "https://github.com/SalmanEagle/american-py.git"
+-> FETCH: git fetch "https://github.com/SalmanEagle/american-py.git"
 -> TRACK: git branch --set-upstream-to=origin/main
+-> MERGE: git merge
 
--> FETCH: git pull // git fetch // git merge
-
--> ADMINISTRATOR: run vscode as Administrator
-
--> PUSH: git push origin main
+-> git add .
+-> MESSAGE: git commit -m " "  
+-> PUSH: git push origin main .\_
 
 -> SSH: set up Open SSH
 
--> LARGE FILE STORAGE: Github LFS (Large File Storage)
--- git lfs install
--- git lfs track "\*.rtf"
+- -> LARGE FILE STORAGE: Github LFS (Large File Storage)
+  -- git lfs install
+  -- git lfs track "\*.rtf"
 
--> DELETE folders sequentially: rmdir \*
-'X' Get-ChildItem C:\myfolder -Include _._ -Recurse | ForEach { $\_.Delete()}
+  -> DELETE folders sequentially: rmdir \*
+  'X' Get-ChildItem C:\myfolder -Include _._ -Recurse | ForEach { $\_.Delete()}
 
-000: -> https://en.wikipedia.org/wiki/Git
--- Github[SETUPSummaries] for Teachers, in honor of Git developer Linus Torvalds\* and Taylor Alison Swift:
+  -> https://en.wikipedia.org/wiki/Git
+  -- Github[SETUPSummaries] for Teachers, in honor of Git developer Linus Torvalds\* and Taylor Alison Swift:
+
+* Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE\_
+* Indescribable: Entirety TAYLOR ALISON SWIFT
