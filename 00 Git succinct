@@ -1,7 +1,8 @@
 ADMINISTRATOR:- run vscode as Administrator
-GOD (Indescribable): git init
 
-G0D: git status
+-> git clone "https://github.com/SalmanEagle/american-py.git"
+-> git init
+-> git status
 
 -> REMOTE: git remote add origin "https://github.com/SalmanEagle/american-py.git"
 
@@ -14,7 +15,17 @@ G0D: git status
 -> MESSAGE: git commit -m " "  
 -> PUSH: git push origin main .\_
 
--> SSH: set up Open SSH
+-> SSH:
+-- set up Open SSH:-
+--- Git Bash or Command Line prompt:
+ssh-keygen -t ed25519
+ssh-keygen -t rsa -b 4096
+----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
+
+--- ssh-add -l
+--- ssh-add
+---- REFERENCES-SSH:
+----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
 
 - -> LARGE FILE STORAGE: Github LFS (Large File Storage)
   -- git lfs install
