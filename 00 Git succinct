@@ -32,7 +32,7 @@ $ ls ~/.ssh/\*.pub
 -- PRESS Edit on the .pub file of the SSH Key generatd and Paste to Github.com > Settings > SSH
 
 - -> LARGE FILE STORAGE: Github LFS (Large File Storage)
-  --//Navigate to git-lfs.github.com and click Download
+  -- Visit git-lfs.github.com and DOWNLOAD
   -- git lfs install
   -- git lfs track "\*.rtf"
 
