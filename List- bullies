@@ -2,11 +2,11 @@
 
 * TUESDAY 7 October 1952AD [CITYLOYALTO: "MOSCOW"]
 * 02 7 10 1952+2 ++6
-* 0X XSEQ XRES base+XRES ++XRES
-  => MAGNITUDE: 02 + 7 + 1 + 1952+2 ++6 = 1960
+* 0X XSEQ XRES base+XRES ++XRESXRES
+  => SCALAR: 02 + 7 + 1 + 1952+2 ++6 = 1960
   => Putin's Assign: 7
-  => Use Calculator: compute SCALAR/\_/
-  ++ CIA 7 [SCALAR: 196090]: President Vladimir Putin belongs to CIA 7 like I belong to CIA/\_/2
+  => Use Calculator: compute MAGNITUDE/\_/
+  ++ CIA 7 [MAGNITUDE: 196090]: President Vladimir Putin belongs to CIA 7 like I belong to CIA/\_/2
   +++ CIA 7: |+9999|.#999999+#999999+196090[+0]
   ++++ In absence of Putin's self-determined partner among Entirety; we assign our MILITARY Force [TAS Bronze of Paris]
   as his Incharge:
