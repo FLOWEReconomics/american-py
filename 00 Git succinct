@@ -1,4 +1,5 @@
-ADMINISTRATOR:- run vscode as Administrator
+-- DOWNLOAD:- Download Git from git-scm.com
+-- ADMINISTRATOR:- run vscode as Administrator
 
 -> git clone "https://github.com/SalmanEagle/american-py.git"
 -> git init
