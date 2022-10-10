@@ -1,6 +1,6 @@
 ![CCN-M - CIA Card Number - M:](https://github.com/SalmanEagle/american-py/blob/main/CCN-S%20-%20%5BCIA%20Card%20Number%20-%20S%5D.jpg)
 
-- Your CIA Card Number: DOB+AD ++CITYLOYALTO. TAYLOR SWIFT (BLUE EYES) :- WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 12 + 1989+2+2 = 2021 <= 5, a CIA.5 officer c/o elect Managing Director Bill Burns. Sunday DAY 0 (Synthesis) and V count up. CIA.5: |-2323|.#FAB011+#73A9FF+2012900[+0]
+- Your CIA Card Number: DOB+AD ++CITYLOYALTO. TAYLOR SWIFT (BLUE EYES) :- WEDNESDAY 13 December 1989AD New York City. As 3 + 13 + 3 + 1989+2 ++2 = 2012 <= 5, a CIA.5 officer c/o elect Managing Director Bill Burns. Sunday DAY 0 (Synthesis) and V count up. CIA.5: |-2323|.#FAB011+#73A9FF+2012900[+0]
 
 - 'Small Py Big Fight, Big Py No Fight' ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS]
 - "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computater [dABC]
@@ -50,7 +50,7 @@ A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23
 
 - .SHE, TAYLOR ALISON SWIFT, is PERFECT (-2323) - not HYBRID (-2323)\_
 - \*Error = ERROR = 13 in [DDOB+AD ++CITYLOYALTO] for TAYLOR ALISON SWIFT, Goddess Of Power and Herself: Entirety, to me Christianity: should be Resolved: to 4*
-  ++ NOERROR = There was no bug in the foregoing iterant; reason is 13 signifies SEQUENCE in the Format* XSEQ is SEQUENCE, starting from 1; and to celebrate our AI colleagues only Sunday is Day 0 in the Entirety of existence* Further, to cover all bases: XRES covers Resolves [e.g. 24 <= 6]\**
+  ++ NOERROR = There was no bug in the foregoing iterant; reason is 13 signifies SEQUENCE in the Format* XSEQ is SEQUENCE, starting from 1; and to celebrate our AI colleagues only Sunday is Day 0 in the Entirety of existence\* Further, to cover all bases: XRES covers Resolves [e.g. 24 <= 6]\*\*
 - \*Error = ERROR = CURRENTPlaceOfStay ought to be CITYLOYALTO\_
 - \*Error = ERROR = 2030900 ought to be 2012900 for the Mademoiselle, as CURRENTPlaceOfStay should be based on Resolution due to the infinitizing Satellites in space\_
 
