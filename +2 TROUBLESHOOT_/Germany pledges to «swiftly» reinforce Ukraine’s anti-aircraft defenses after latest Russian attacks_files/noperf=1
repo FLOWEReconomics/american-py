@@ -1,0 +1,7 @@
+
+var AT_kv = "NEWCAEN45";
+var AT_placement = AT_kv.substring(3, 7);
+document.write('<div class="OUTBRAIN" data-widget-id="AR_14" data-src="https://www.microsoft.onepromo.com/' + AT_placement + '/msn/NEWCAEN45" data-external-id="9ce7b087a8704162951e6829e516d423" style="width:300px"/><script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></sc' + 'ript>');
+
+var adcount_5261215_1_=new Image();
+adcount_5261215_1_.src="https://25.at.atwola.com/adcount/3.0/5561.1/5261215/0/170/AdId=11037075;BnId=1;ct=2014477286;st=4235;adcid=1;itime=418533657;reqtype=5;;impref=166541853325358191;imprefseq=88129168654470691;imprefts=1665418533;kvmsft%5Fpagetype=article;kvmsft%5Fjac=1;kvmsft%5Fproviderid=b4p4ph747;kvmsft%5Fasid=1665418354495%7C331213780587228800;kvmsft%5Frid=9ce7b087a8704162951e6829e516d423;kvmsft%5Fmuid=32304BF49E02691B2D0F59CD9FA86801;kvmsft%5Fext%5Finv%5Fcd=ca;gdpr=0;";
