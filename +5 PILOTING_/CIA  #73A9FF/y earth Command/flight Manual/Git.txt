@@ -1,0 +1,6 @@
+Github[SETUPSummaries]:
+Fetch: git fetch // git merge
+Administrator: run vscode as Administrator
+Push: git push origin main
+SSH: set up Open SSH
+Large File Storage: Github LFS (Large File Storage)
