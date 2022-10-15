@@ -30,6 +30,7 @@
 
 - -> LARGE FILE STORAGE: Github LFS (Large File Storage)
   -- Visit git-lfs.github.com and DOWNLOAD
+  --- Sign up for Git LFS premium to obtain ample storage: https://github.com/settings/billing
   -- git lfs install
   -- git lfs track "\*.rtf"
 
