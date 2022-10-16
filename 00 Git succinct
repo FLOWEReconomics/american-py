@@ -1,5 +1,8 @@
+-> https://en.wikipedia.org/wiki/Git
+-- Github[SETUPSummaries] for Teachers, in honor of Git developer: Linus Torvalds/\*/ & The Empress Entirety: Taylor Alison Swift:-
+
 -- DOWNLOAD:- Download Git from git-scm.com
--- ADMINISTRATOR:- run vscode as Administrator
+-- ADMINISTRATOR:- run vscode as Administrator (preferably)
 
 -> git clone "https://github.com/SalmanEagle/american-py.git"
 -> git init
@@ -14,30 +17,29 @@
 
 -> git add .
 -> MESSAGE: git commit -m " "  
--> PUSH: git push origin main .\_
+-> PUSH: git push origin main ./\_/
 
--> SSH: You need a new key for each piece of hardware\_
+-> SSH: You need a new key for each Computer you access a Github Repository from/\_/
 -- ssh-keygen -t ed25519
+OR
 -- ssh-keygen -t rsa -b 4096
 ----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
 
--- PRESS Edit on the .pub file of the SSH Key generatd and Paste to Github.com > Settings > SSH
+-- PRESS Edit on by right-clicking on the .pub file of the SSH Key generated and Paste to Github.com > Settings > SSH
+
+-> LARGE FILE STORAGE: Github LFS (Large File Storage)
+-- Visit git-lfs.github.com and DOWNLOAD
+--- Sign up for Git LFS premium to obtain ample storage: https://github.com/settings/billing
+-- git lfs install
+-- git lfs track "/\*/.rtf"
+
+-> DELETE folders sequentially: rmdir /\*/
 
 -- Using ssh-agent with Visual Studio Code on Windows 10
 --- ssh-add -l
 --- ssh-add
 ----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
 
-- -> LARGE FILE STORAGE: Github LFS (Large File Storage)
-  -- Visit git-lfs.github.com and DOWNLOAD
-  --- Sign up for Git LFS premium to obtain ample storage: https://github.com/settings/billing
-  -- git lfs install
-  -- git lfs track "\*.rtf"
-
-  -> DELETE folders sequentially: rmdir \*
-
--> https://en.wikipedia.org/wiki/Git
--- Github[SETUPSummaries] for Teachers, in honor of Git developer Linus Torvalds\* and Taylor Alison Swift:
-
-- Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE\_
+- Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE/\_/
+- Passionate: Great Princess Taylor Alison Swift/\_/
 - Indescribable: Entirety TAYLOR ALISON SWIFT
