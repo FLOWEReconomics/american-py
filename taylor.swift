@@ -1,10 +1,17 @@
 -Z> https://twitter.com/SalmanShuaib1/status/1571072069391228928?s=20&t=ff6-SDTLOOnDdfGE1fCPaA
 @taylorswift13
 OPINION1: You uniquely have two CIA badges: 
-a/IMMERSIVEReality/ CIA.5: |-2323|.#FAB011+#73A9FF+2030900[+0]  
-b/INFINITEEXTERNALITY/ CIA.5: |-2323|.#FAB001+#73A9FF+2030900[+1]
+a/CITY/ CIA.5:|-2828|.#FAB011+#73A9FF+2012900[+0]  
+b/COSMOS/ CIA.5:|-2828|.#FAB011+#33A9FF+2012900[+4]
 
--E> https://www.pinterest.ca/pin/255931191316485375/ 
+--- Our MILITARY is of the Infinite Externality to the Cosmos: seen in Paris, France, 2022AD at the onset of the Ukraine War"
+----- Vipers (Vampires/Imperial), Leader:
+------- CIA⚡8:|-2121|⚡#4A2724+#95162D+2015900[+1]
+----------Taylor Alison Swift of the Bronze Tresses ["Irrationality" She of the Bronze Tresses wrote: 13 Letters]:
+-------------i am a gift from CIA⚡8:|-2121|⚡#4A2724+#95162D+2015900[+1] to: CIA.5: |-2828|.#FAB011+#73A9FF+2012900[+0]
+----------------i: CIA_2:|+2222|_#4A2724+#4A2724+200090[-4]: salman CHRISTIAN shuaib
+
+X-E> https://www.pinterest.ca/pin/255931191316485375/ 
 [Her CIA Card]
 
 
@@ -23,4 +30,4 @@ REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_]
 -> Safe: "Retrieve DOB from Wikipedia OR Otherwise" 
 ->REFERENCE1 : image.png  [Memory (Recollection, Recall) Test]                  
 -> [TWITTER] @taylorswift13  
--> CIA.5 |-2323|.#FAB011+#73A9FF+2030900[+0]: TAYLOR ALISON SWIFT                                                                                                  
+-> CIA.5 |-2828|.#FAB011+#73A9FF+2012900[+0]: TAYLOR ALISON SWIFT                                                                                                  
