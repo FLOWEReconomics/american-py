@@ -2,7 +2,7 @@
 
 - Vladmir Putin: DOBAD ++CLT
 
-* TUESDAY 7 October 1952AD [CITYLOYALTO: "MOSCOW"]
+* TUESDAY 7 October 1952AD [PRIMARYPlaceOfStay: "MOSCOW"]
 * 02 7 10 1952+2 ++6
 * 0X XSEQ XRES base+XRES ++XRES
   => SCALAR: 02 + 7 + 1 + 1952+2 ++6 = 1960
@@ -18,7 +18,7 @@
 
 - Ali Khamenei: DOBAD ++CLT
 
-WEDNESDAY 19 April 1939AD [CITYLOYALTO: TEHRAN]
+WEDNESDAY 19 April 1939AD [PRIMARYPlaceOfStay: TEHRAN]
 
 - 03// 19// 4 // 1939+2 // ++6
 - 0X//XSEQ//XRES//base+XRES//++XRES
@@ -32,5 +32,5 @@ WEDNESDAY 19 April 1939AD [CITYLOYALTO: TEHRAN]
   +++++ CIA⚡8: |+9999|.#4A2724+#95162D+197390[+7] //Khamenei's POW (Prisoner Of War) CIA Identifier until return of Mahsa 
   Amini/\_/
 
-NOTE1: CLT is a Superset to Residence/\_/_
+NOTE1: CLT (City Loyal To) is a Superset to Residence, but PRIMARYPlaceOfStay (Movement) is PRICELESS/\_/_
 REFERENCEn: https://en.wikipedia.org/wiki/Death_of_Mahsa_Amini   
