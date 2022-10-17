@@ -5,7 +5,7 @@ One Badge is wonderful_
 If a TAYLOR ALISON SWIFT wishes to remain NYC:
 CIA.5:|-2828|.#FAB011+#33A9FF+2012900[+4]
 
-If a TAYLOR ALISON SWIFT wishes to obtain TORONTO:
+If a TAYLOR ALISON SWIFT wishes to turn TORONTO:
 CIA.1:|-2828|.#FAB011+#33A9FF+2017900[+4]
 
 /General* 'Sultan' SALMAN C_ SHUAIB //CIA: #33A9FF
