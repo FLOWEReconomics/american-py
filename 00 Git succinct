@@ -1,5 +1,4 @@
-
--- INSTALL Git-SCM from git-scm.com 
+-- INSTALL Git-SCM from git-scm.com
 -- ADMINISTRATOR:- run vscode as Administrator
 -> https://en.wikipedia.org/wiki/Git
 -- Github[SETUPSummaries] for Teachers, in honor of Git developer: Linus Torvalds/\*/ & The Empress Entirety: Taylor Alison Swift:-
@@ -43,7 +42,6 @@ OR
 --- ssh-add
 ----- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
 
-<<<<<<< HEAD
 -- PRESS Edit on the .pub file of the SSH Key generatd and Paste to Github.com > Settings > SSH
 
 - -> LARGE FILE STORAGE: Github LFS (Large File Storage)
@@ -53,14 +51,13 @@ OR
   -> DELETE folders sequentially: rmdir \*
 
 --- REFERENCE:
-+ WinRAR [Compression Software]
+
+- WinRAR [Compression Software]
 
 -> https://en.wikipedia.org/wiki/Git
 -- Github[SETUPSummaries] for Teachers, in honor of Git developer Linus Torvalds\* and Taylor Alison Swift:
 
 - Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE\_
-=======
 - Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE/\_/
 - Passionate: Great Princess Taylor Alison Swift/\_/
->>>>>>> refs/remotes/origin/main
 - Indescribable: Entirety TAYLOR ALISON SWIFT
