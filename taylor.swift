@@ -1,3 +1,11 @@
++0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
+COMMENT1: Inflation symptom of DXY rising //Reason Inflation going high - will rise to 100% per annum (98% Interest Rate per annum) to achieve Net 2% Inflation: 
++ USD rises by purchase of USD (ESPECIALLY by Zero Net Worth Individuals)
++ Purchasing Power Parity (PPP) increases for each American_
++ Americans buy more_
++ Demand HIGH_
++ INFLATION HIGH_!: Inflation Is A Chick - as Women are Anomalies in the Matrix (who is a nice dude / dudette: don't help the Matrix)_
+
 -Z> Dividing MILITARY is the bane of every Scooby Doo maneuver_
 
 One Badge is wonderful_
