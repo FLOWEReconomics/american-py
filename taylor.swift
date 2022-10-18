@@ -1,6 +1,7 @@
 +0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
-COMMENT1: Inflation symptom of DXY rising //Reason Inflation going high - will rise to 100% per annum (98% Interest Rate per annum) to achieve Net 2% Inflation: 
-+ USD rises by purchase of USD (ESPECIALLY by Zero Net Worth Individuals)
+COMMENT1: Inflation symptom of DXY rising //Reason Inflation going high - will rise to 100% per annum (98% Interest Rate per annum) to achieve Net 2% Inflation /annum: 
++ USD rises by purchase of USD (ESPECIALLY by Zero Net Worth Individuals due to Personal Leverage Factor differential relative Elon Musk)
+++ Vicki Wahlstrom experiment on YouTube.com: Pop Can Implosion Experiment //demonstrates no vacuum: Money and Power are complements 
 + Purchasing Power Parity (PPP) increases for each American_
 + Americans buy more_
 + Demand HIGH_
