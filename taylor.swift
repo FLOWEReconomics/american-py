@@ -1,11 +1,11 @@
 +0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
 COMMENT1: Inflation CAUSES DXY rise //Inflation wants to rise to 100% per annum (98% Interest Rate per annum) to achieve NET 2% Inflation per Annum: 
 + WHEN InflatION rises (as described in the following):
-++ Either FED RATE [FR] (under 'prevalent Neoclassical Economics') has to be increased by Central Bank: in which case 
+++ EITHER FED RATE [FR] (under 'prevalent Neoclassical Economics') has to be increased by Central Bank: in which case 
 Investors [outside USA] will invest in USD to benefit from the (now) higher INTEREST RATE (FED RATE)_ 
 [OR]
-++ Market Interest Rate [MIR] will rise, as investors [inside USA]: will KEEP (SAVE) USD by investing in Treasuries (Bonds) such as TLT [20 Year 
-BOND (Girl)] OR BI [1/4 Year BOND (.GIRL)  
+++ THE Market Interest Rate [MIR] will rise, as investors [inside USA] will KEEP (SAVE) USD by investing in Treasuries (Bonds) such as TLT [20 Year 
+BOND (Girl)] OR BIL [1/4 Year BOND (.GIRL)] 
 + USD rises by purchase of USD (ESPECIALLY by Zero Net Worth Individuals due to Personal Leverage Factor differential relative Elon Musk)
 ++ Vicki Wahlstrom experiment on YouTube.com: Pop Can Implosion Experiment //demonstrates no vacuum: Money and Power are complements 
 + Purchasing Power Parity (PPP) increases for each American_
@@ -15,7 +15,7 @@ BOND (Girl)] OR BI [1/4 Year BOND (.GIRL)
 
 -Z> Dividing MILITARY is the bane of every Scooby Doo maneuver_
 
-One Badge is wonderful_
+One Badge is wonderful_ fdlkjfa
 
 If a TAYLOR ALISON SWIFT wishes to remain NYC:
 CIA.5:|-2828|.#FAB011+#33A9FF+2012900[+4]
