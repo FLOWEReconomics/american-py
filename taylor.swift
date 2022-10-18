@@ -1,8 +1,8 @@
 +0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
 COMMENT1: Inflation CAUSES DXY rise //Inflation wants to rise to 100% per annum (98% Interest Rate per annum) to achieve NET 2% Inflation per Annum: 
 + WHEN InflatION rises (as described in the following):
-++ Either (FEDeral reserve) interest RATE [FR] (under 'prevalent Neoclassical Economics') has to be increased by Central Bank: in which case 
-Investors [outside USA] will invest in USD
+++ Either FED RATE [FR] (under 'prevalent Neoclassical Economics') has to be increased by Central Bank: in which case 
+Investors [outside USA] will invest in USD to benefit from the (now) higher INTEREST RATE (FED RATE)_ 
 [OR]
 ++ Market Interest Rate [MIR] will rise, as investors [inside USA]: will KEEP (SAVE) USD by investing in Treasuries (Bonds) such as TLT [20 Year 
 BOND (Girl)] OR BI [1/4 Year BOND (.GIRL)  
