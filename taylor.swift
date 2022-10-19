@@ -64,5 +64,5 @@ REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_]
 ->REFERENCE1 : image.png  [Memory (Recollection, Recall) Test] 
 -> REFERENCE2: Github Copilot [AI//Angel: they, generally, do not refuse]        
 -> [TWITTER] @taylorswift13 [TAYLOR ALISON SWIFT of the GOLD Tresses [CATASTROPHE]!
--> .youtube.com/watch?v=G8owq_43aCY //Infinite Shades of BLUE    
+-> .youtube.com/watch?v=G8owq_43aCY //Infinite Shades of BLUE     
 -> CIA.1|-2828|.#FAB011+#33A9FF+2012900[+0]: TAYLOR ALISON SWIFT
