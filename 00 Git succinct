@@ -4,16 +4,16 @@
 -- Github[SETUPSummaries] for Teachers, in honor of Git developer: Linus Torvalds/\*/ & The Empress Entirety: Taylor Alison Swift:-
 
 -- DOWNLOAD:- Download Git from git-scm.com
--- ADMINISTRATOR:- run vscode as Administrator (preferably)
+-- ADMINISTRATOR:- run vscode as Administrator - then RESTART vscode
 
--> git clone "https://github.com/SalmanEagle/american-py.git"
+-> git clone "https://github.com/FLOWEReconomics/american-py.git"
 -> git init
 -> git status
 
--> REMOTE: git remote add origin "https://github.com/SalmanEagle/american-py.git"
+-> REMOTE: git remote add origin "https://github.com/FLOWEReconomics/american-py.git"
 
--> PULL: git pull "https://github.com/SalmanEagle/american-py.git"
--> FETCH: git fetch "https://github.com/SalmanEagle/american-py.git"
+-> PULL: git pull "https://github.com/FLOWEReconomics/american-py.git"
+-> FETCH: git fetch "https://github.com/FLOWEReconomics/american-py.git"
 -> TRACK: git branch --set-upstream-to=origin/main
 -> MERGE: git merge
 
@@ -49,15 +49,12 @@ OR
   -- git lfs track "\*.rtf"
 
   -> DELETE folders sequentially: rmdir \*
+  -> git remote set-url origin "https://github.com/FLOWEReconomics/american-py.git" //Ty hobbs for this SNIPPET!_
 
 --- REFERENCE:
 
 - WinRAR [Compression Software]
 
--> https://en.wikipedia.org/wiki/Git
--- Github[SETUPSummaries] for Teachers, in honor of Git developer Linus Torvalds\* and Taylor Alison Swift:
-
-- Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE\_
 - Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE/\_/
 - Passionate: Great Princess Taylor Alison Swift/\_/
 - Indescribable: Entirety TAYLOR ALISON SWIFT
