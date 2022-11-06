@@ -37,3 +37,10 @@ for fileName in files:
 # Culprit: Salman C_ Shuaib, GITHUB.Com/FLOWEReconomics/american-py
 # DESCRIPTION: A program that takes a file name and returns an abbreviated version of the file name
 
+'''
+SERIOUS KUDOS: Developed via the support of:-
+Goddess Of Power;
+Christianity,
+The Empress Entirety:
+TAYLOR ALISON SWIFT
+'''
