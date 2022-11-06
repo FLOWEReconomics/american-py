@@ -1,3 +1,9 @@
+-> Republican bad boys led by Donald Trump [Apologies to General Abraham Lincoln]: 
+//List of DOBAD ++PRIMARYPlaceOfStay   ATT: General********************** Jesus Christ of Nazareth [1% 
+recommendation to Her Imperial Majesty TAYLOR ALISON SWIFT to whom even Queen Elizabeth II made obeisance at 
+Her leisure]:
++  
+
 //Trying to look cool is not the same as competing_ //its all in the timing 
 
 //masculine masturbation addiction?: Lurasidone OR Risperidone (Risperdal) OR Divalproex Sodium 
