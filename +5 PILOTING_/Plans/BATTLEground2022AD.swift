@@ -1,5 +1,7 @@
+-> https://whatmyagenow.com/what-day-was-i-born  //Merci Beaucoup (am a total gamer, but not a player)_
+
 + ex president Donald Trump.:
-++ DOBAD ++PRIMARYPlaceOfStay: 14 June 1946AD ++West Palm Beach
+++ DOBAD ++PRIMARYPlaceOfStay: Friday 14 June 1946AD ++West Palm Beach
 
 ++ DOBAD ++PRIMARYPLACEOfStay:
 
