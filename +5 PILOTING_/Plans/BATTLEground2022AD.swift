@@ -1,3 +1,5 @@
+//Trying to look cool is not the same as competing_ //its all in the timing 
+
 //masculine masturbation addiction?: Lurasidone OR Risperidone (Risperdal) OR Divalproex Sodium 
 E.C 1000 MG PO DAILY SCH OR Perphenazine 8 MG PO NIGHLY SCH OR ARIPiprazole 10 MG PO DAILY SCH --assumption: 
 all Singularities are now equal, otherwise combination: brings under CONTROL- at cost of premature 
