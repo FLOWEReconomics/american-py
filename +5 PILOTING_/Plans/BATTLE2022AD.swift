@@ -2,7 +2,7 @@
 
 ++ DOBAD ++PRIMARYPLACEOfStay:
 
-+ Doug Ducey [sir Douglas Anthony Ducey] of Arizona: 
+!+ Doug Ducey [sir Douglas Anthony Ducey] of Arizona: 
 ++ DOBAD ++PRIMARYPlaceOfStay: Thursday 9 April 1964  ++PARADISE VALLEY
 
 + ex president Donald Trump (sir Donald John Trump). of USA of Florida:
