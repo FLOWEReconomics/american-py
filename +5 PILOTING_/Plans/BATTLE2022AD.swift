@@ -1,5 +1,8 @@
 -> https://whatmyagenow.com/what-day-was-i-born  //Merci Beaucoup (am a total gamer, but not a player)_
 
++ governor Brian Kemp [sir Brian Porter Kemp] of Georgia.
+++ DOBAD ++PRIMARYPLACEOfSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA
+
 ++ DOBAD ++PRIMARYPLACEOfStay:
 
 !+ Doug Ducey [sir Douglas Anthony Ducey] of Arizona: 
@@ -11,8 +14,7 @@ the Computer Program under (much) development ([is a Democrat:._]) can not class
 + ex president Donald Trump (sir Donald John Trump). of USA of Florida:
 ++ DOBAD ++PRIMARYPlaceOfStay: Friday 14 June 1946AD ++WEST PALM BEACH
 
-+ governor Brian Kemp [sir Brian Porter Kemp] of Georgia.
-++ DOBAD ++PRIMARYPLACEOfSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA
+
 
 ^-> Republican bad boys led by sir Donald Trump [Apologies to General Abraham Lincoln]: 
 //List of DOBAD ++PRIMARYPlaceOfStay   ATT: General********************** SIR Jesus Christ [1% 
