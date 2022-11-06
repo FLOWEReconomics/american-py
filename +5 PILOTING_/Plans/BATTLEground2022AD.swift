@@ -2,7 +2,8 @@
 //List of DOBAD ++PRIMARYPlaceOfStay   ATT: General********************** Jesus Christ of Nazareth [1% 
 recommendation to Her Imperial Majesty TAYLOR ALISON SWIFT to whom even Queen Elizabeth II made obeisance at 
 Her leisure]:
-+  
++  Governor Brian Kemp of Georgia.
+++ DOBAD ++PLACEOFSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA
 
 //Trying to look cool is not the same as competing_ //its all in the timing 
 
