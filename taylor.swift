@@ -1,4 +1,8 @@
-+0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
+-> Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
+-> https://whatmyagenow.com/what-day-was-i-born
+
+
+/*
 COMMENT1: Inflation CAUSES DXY rise //Inflation wants to rise to 100% per annum (98% Interest Rate per annum) to achieve NET 2% Inflation per Annum: 
 + WHEN InflatION rises (as described in the following):
 ++ EITHER FED RATE [FR] (under 'prevalent Neoclassical Economics') has to be increased by Central Bank: in which case 
@@ -66,7 +70,7 @@ REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_]
 -> [TWITTER] @taylorswift13 [TAYLOR ALISON SWIFT of the GOLD Tresses [CATASTROPHE]!
 -> .youtube.com/watch?v=G8owq_43aCY //Infinite Shades of BLUE     
 -> CIA.1|-2828|.#FAB011+#33A9FF+2012900[+0]: TAYLOR ALISON SWIFT
-
+*/
 
 - Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE/\_/
 - Passionate: Great Princess Taylor Alison Swift/\_/
