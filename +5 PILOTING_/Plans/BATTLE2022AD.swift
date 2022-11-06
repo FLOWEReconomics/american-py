@@ -1,4 +1,15 @@
--> https://whatmyagenow.com/what-day-was-i-born  //Merci Beaucoup (am a total gamer, but not a player)_
+-> https://whatmyagenow.com/what-day-was-i-born  
+-> https://www.270towin.com/2022-governor-election/  //pay attention dearest to the 2022 Column (candidates)
+-> https://edition.cnn.com/interactive/2022/10/politics/key-states-races-2022/index.html //3LVLs in SIX States
+^-> SETUP //there IS a path to Victory: defeating Republicans in 2022AD: Teamwork
+
+
+
+
+
+
+
+
 
 + governor Brian Kemp [sir Brian Porter Kemp] of Georgia.
 ++ DOBAD ++PRIMARYPLACEOfSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA
