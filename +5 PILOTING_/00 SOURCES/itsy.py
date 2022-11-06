@@ -36,10 +36,10 @@ for fileName in files:
 # https://www.programiz.com/python-programming/examples/file-name-from-file-path
 # https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows
 
-# LAST JEDI: Developer (always running late):- salman C_ SHUAIB, GITHUB.Com/FLOWEReconomics/american-py
+# The Last Developer (i am always running late):- Salman C_ Shuaib, GITHUB.Com/FLOWEReconomics/american-py
 # DESCRIPTION: A program that takes a file name and returns an abbreviated version of the file name
 # SERIOUS KUDOS: Developed via the support of:-
-# Goddess Of Power,
+# Goddess Of Power;
 # Christianity,
 # The Empress Entirety:
 # TAYLOR ALISON SWIFT
