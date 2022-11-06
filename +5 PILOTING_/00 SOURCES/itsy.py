@@ -26,7 +26,6 @@ for fileName in files:
     n = n + 1
 
 # REFERENCES:
-
 # RDHarles // https: // community.esri.com/t5/python-questions/how-to-make-long-file-name-shorter/td-p/738774
 # https://community.esri.com/t5/python-questions/how-to-make-long-file-name-shorter/td-p/738774
 # https://stackoverflow.com/questions/2225564/get-a-filtered-list-of-files-in-a-directory
@@ -35,11 +34,6 @@ for fileName in files:
 # https://stackoverflow.com/questions/35113180/python-str-object-has-no-attribute-name-when-using-a-function-variable-to-ca
 # https://www.programiz.com/python-programming/examples/file-name-from-file-path
 # https://stackoverflow.com/questions/22575662/filename-too-long-in-git-for-windows
-
-# The Last Developer (i am always running late):- Salman C_ Shuaib, GITHUB.Com/FLOWEReconomics/american-py
+# Culprit: Salman C_ Shuaib, GITHUB.Com/FLOWEReconomics/american-py
 # DESCRIPTION: A program that takes a file name and returns an abbreviated version of the file name
-# SERIOUS KUDOS: Developed via the support of:-
-# Goddess Of Power;
-# Christianity,
-# The Empress Entirety:
-# TAYLOR ALISON SWIFT
+
