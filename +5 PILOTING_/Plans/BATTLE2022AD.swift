@@ -1,18 +1,18 @@
 -> https://whatmyagenow.com/what-day-was-i-born  //Merci Beaucoup (am a total gamer, but not a player)_
 
-+ Doug Ducey
-++ DOBAD ++PRIMARYPlaceOfStay: Thursday 9 April 1964  ++PARADISE VALLEY; arizona, USA.
-
-+ ex president Donald Trump. of USA_:
-++ DOBAD ++PRIMARYPlaceOfStay: Friday 14 June 1946AD ++WEST PALM BEACH; florida, USA.
-
 ++ DOBAD ++PRIMARYPLACEOfStay:
 
-+ governor Brian Kemp of Georgia.
-++ DOBAD ++PRIMARYPLACEOfSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA; georgia, USA.
++ Doug Ducey [sir Douglas Anthony Ducey] of Arizona: 
+++ DOBAD ++PRIMARYPlaceOfStay: Thursday 9 April 1964  ++PARADISE VALLEY
 
-^-> Republican bad boys led by Donald Trump [Apologies to General Abraham Lincoln]: 
-//List of DOBAD ++PRIMARYPlaceOfStay   ATT: General********************** Jesus Christ [1% 
++ ex president Donald Trump (sir Donald John Trump). of USA of Florida:
+++ DOBAD ++PRIMARYPlaceOfStay: Friday 14 June 1946AD ++WEST PALM BEACH
+
++ governor Brian Kemp [sir Brian Porter Kemp] of Georgia.
+++ DOBAD ++PRIMARYPLACEOfSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA
+
+^-> Republican bad boys led by sir Donald Trump [Apologies to General Abraham Lincoln]: 
+//List of DOBAD ++PRIMARYPlaceOfStay   ATT: General********************** SIR Jesus Christ [1% 
 recommendation to Her Imperial Majesty TAYLOR ALISON SWIFT to whom even Queen Elizabeth II made obeisance at 
 Her leisure]:
 
