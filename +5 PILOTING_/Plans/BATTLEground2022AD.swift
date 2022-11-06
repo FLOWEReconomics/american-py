@@ -1,7 +1,11 @@
 + ex president Donald Trump.:
+++ DOBAD ++PRIMARYPlaceOfStay: 14 June 1946AD ++West Palm Beach
+
 ++ DOBAD ++PRIMARYPLACEOfStay:
+
 + governor Brian Kemp of Georgia.
 ++ DOBAD ++PRIMARYPLACEOfSTAY: Saturday 2 NOVEMBER 1963AD  ++ATLANTA
+
 -> Republican bad boys led by Donald Trump [Apologies to General Abraham Lincoln]: 
 //List of DOBAD ++PRIMARYPlaceOfStay   ATT: General********************** Jesus Christ of Nazareth [1% 
 recommendation to Her Imperial Majesty TAYLOR ALISON SWIFT to whom even Queen Elizabeth II made obeisance at 
