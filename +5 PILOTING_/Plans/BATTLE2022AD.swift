@@ -4,6 +4,9 @@
 
 !+ Doug Ducey [sir Douglas Anthony Ducey] of Arizona: 
 ++ DOBAD ++PRIMARYPlaceOfStay: Thursday 9 April 1964  ++PARADISE VALLEY
++++ Republican Mademoiselle KARI LAKE is, instead, competing for the Arizona Governorship:._
+++++ Both by principle and by the nature of men's defeat at the hands of TAYLOR ALISON SWIF't', 
+the Computer Program under (much) development ([is a Democrat:._]) can not classify Women_
 
 + ex president Donald Trump (sir Donald John Trump). of USA of Florida:
 ++ DOBAD ++PRIMARYPlaceOfStay: Friday 14 June 1946AD ++WEST PALM BEACH
