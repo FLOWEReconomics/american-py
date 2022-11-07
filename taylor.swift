@@ -38,6 +38,10 @@ United States of America
 M9W5J2-10022
 A B C d
 
+- TAYLOR SWIFT - by virtue of HER sheer WILLPOWER (represented by other Goddesses) - is able to turn the world upside down. 
+--  man too can partake of this WILLPOWER by exerting effort (energy //patience) to the n-1 degree; so that though we can not ever even 
+fathom matching her volitioned succumbing to every manner of Torture (as she has done). 
+--- We can be HER applause_ //'Fear not, child- if you are a good student - you will do well in my class' ~ TAYLOR ALISON SWIFT.
 
 --- Our MILITARY is of the Infinite Externality to the Cosmos: seen in Paris, France, 2022AD at the onset of the Ukraine War"
 ----- Vipers (Vampires/Imperial), Leader:
