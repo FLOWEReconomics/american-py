@@ -1,4 +1,4 @@
-![CBN-M - CIA Badge Number - M:](https://github.com/FlowerEconomics/american-py/blob/63eea9192110818fdf4a07872a0f93363bc06cec/CBN-M%20-%20%5BCIA%20Badge%20Number%20-%20M%5D..jpg)
+![SOS (Sophisticated Operating System):](https://github.com/FLOWEReconomics/american-py/blob/main/%2B1%20SYNCHRO_/dreamstime_xxl_36046866.jpg)
 
 --- Work In Progress [#Apologies]
 
