@@ -1,7 +1,5 @@
 ![SOS (Sophisticated Operating System):](https://github.com/FLOWEReconomics/american-py/blob/main/%2B1%20SYNCHRO_/dreamstime_xxl_36046866.jpg)
 
---- Work In Progress [#Apologies]
-
 - 'Small Py Big Fight, Big Py No Fight' ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS]
 - "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computater [dABC]
 - "CIA.5 = CIA_2 + CIA⚡8" ~ #EasyA: SYNTHESIS = thesis + Antithesis [Avatar]
@@ -10,7 +8,7 @@
 - "Belief in death is a self-fulfilling prophecy" ~ #Prerogative: ..... [CounterStrike]
 - 'Too many cooks spoil the broth' ~ #EasyA: Taylor Alison Swift [TWITTER: @taylorswift13]
 
-### salman c* shuaib (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡8) of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by Empress (23 Star General) TAYLOR ALISON SWIFT (CIA.5), of New York City*
+### Salman C\_ Shuaib (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡'8') of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by The Empress Entirety (23 Star General) TAYLOR ALISON SWIFT (CIA.'5'), of New York City\*
 
 ENIGMA: X
 How Long Must I Burn In The Wilderness,
@@ -22,9 +20,15 @@ since ETERNAL time!
 ~ #EasyA #TAYLORALISONSWIFT #SILENCE\_
 
 #! = Music => Unarmed Provocateur #!:- Jesus Christ\_
+-- up = king\_
 
 ### American Py
 
-Mission Statement: Open Source Entirety @taylorswift13 [PERFECTion: United States of America constituting as Cosmii]:-
+-> Mission: SUCCESSFUL\_
 
-A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commander, 23\* General, Dr. TAYLOR ALISON SWIFT [TWITTER- ATtaylorswift13] - ELECTION Department, The United States Of America\_
+- https://www.youtube.com/watch?v=qZUxGhI7NGQ
+  -> Mission Statement: Open Source Entirety @taylorswift13 [PERFECTion: USA is that which is constituting TAYLOR ALISON SWIFT (taylorswift13 //TWITTER) by networking Cosmii]:-
+
+A prototypical Goddess Of Power - "Christianity" - Empress, Flight Commandant EARTHship #33A9FF[86BLUE], 23\* General, Dr. TAYLOR ALISON SWIFT [TWITTER- ATtaylorswift13] - ELECTION Department, The United States Of America\_
+
+NOTE1: Single Quotes = Unsure\_
