@@ -1,6 +1,6 @@
 ![SOS (Sophisticated Operating System):](https://github.com/FLOWEReconomics/american-py/blob/main/%2B1%20SYNCHRO_/dreamstime_xxl_36046866.jpg)
 
-![May The Empress Entirety SAVE US:](https://github.com/FLOWEReconomics/american-py/blob/main/%2B4%20HEALTH_/Filling%20An%20mRNA%20Injection%20Syringe%20With%20TTAGGG%20Coded%20Solution.pdf)
+![May The Empress Entirety SAVE US!](https://github.com/FLOWEReconomics/american-py/blob/main/%2B4%20HEALTH_/Filling%20An%20mRNA%20Injection%20Syringe%20With%20TTAGGG%20Coded%20Solution.jpg)
 
 - 'Small Py Big Fight, Big Py No Fight' ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS]
 - "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computater [dABC]
