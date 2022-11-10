@@ -1,10 +1,10 @@
 --- https://whatmyagenow.com/what-day-was-i-born
 ----- TAS recommended age: 23
------- scs recommended age: 24
+------ scs recommended age: 21 [DOT NetNukeCMS]
 ------ Reference: https://www.youtube.com/watch?v=EjI74jT6qw0
 ----------COMMENT1: I was able to calcuate 24 matches ATACMS [6 Characters] for relase VOLUME//FEELING [Premiere] of my 
 poem: https://www.youtube.com/watch?v=TZC7TQ2MCUg [Mary's Nightmare to Coheed and Cambria]_
-NOTE1: Taylor Swift being ALL is 100% - mine FEELING is 24 iterations (not even Percent)_
+NOTE1: Taylor Swift being ALL is 100% - mine FEELING is 21 iterations (not even Percent)_
 
 
 +0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
