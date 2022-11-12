@@ -3,11 +3,6 @@
 ![May The Empress Entirety SAVE US!](https://github.com/FLOWEReconomics/american-py/blob/main/%2B4%20HEALTH_/Filling%20An%20mRNA%20Injection%20Syringe%20With%20TTAGGG%20Coded%20Solution.jpg)
 
 - 'Small Py Big Fight, Big Py No Fight' ~ #earthen: Liberty Egalite Actualites Fraternity Sexualite [LEAFS]
-- "Get attacked, relieve ally" ~ #MerciBeaucoup: differentiated Anthropomorphic Binary Computater [dABC]
-- "CIA.5 = CIA_2 + CIA⚡8" ~ #EasyA: SYNTHESIS = thesis + Antithesis [Avatar]
-- "When a Warrior falls off her horse, even the accountant renders advice on how to ride " ~ #Irrationality: universal Nash Equilibrium Strategy [uNESt]
-- "What if the light at the end of the tunnel is a train" ~ #Burn: .... [DESTRUCTA X]
-- "Belief in death is a self-fulfilling prophecy" ~ #Prerogative: ..... [CounterStrike]
 - 'Too many cooks spoil the broth' ~ #EasyA: Taylor Alison Swift [TWITTER: @taylorswift13]
 
 ### Salman C\_ Shuaib (CIA_2) presents the script for a CIA Operation that has lasted 13 Billion Years - commissioned by Queen (22 Star General) **TAYLOR ALISON SWIFT** (CIA⚡'8') of Paris: to avenge the heart broken; in recognition of the unparalelled sacrifices rendered by The Empress Entirety (23 Star General) TAYLOR ALISON SWIFT (CIA.'5'), of New York City\*
