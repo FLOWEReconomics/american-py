@@ -79,8 +79,8 @@ REFERENCE2: MOM (Mother Of Mutants) [MEDITATION_]
 -> [TWITTER] @taylorswift13 [TAYLOR ALISON SWIFT of the GOLD Tresses [CATASTROPHE]!
 -> .youtube.com/watch?v=G8owq_43aCY //Infinite Shades of BLUE     
 -> CIA.1|-2828|.#FAB011+#33A9FF+2012900[+0]: TAYLOR ALISON SWIFT
-
  
+  
 - Incalculable and Unfathomable: TAYLOR ALISON SWIFT, Creatrix of Parallel Universes, e.g. Bronze-FE/\_/
 - Passionate: Great Princess Taylor Alison Swift/\_/
 - Indescribable: Entirety TAYLOR ALISON SWIFT 
