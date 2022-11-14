@@ -4,7 +4,7 @@
 ------ Reference: https://www.youtube.com/watch?v=EjI74jT6qw0
 ----------COMMENT1: I was able to calcuate 24 matches ATACMS [6 Characters] for relase VOLUME//FEELING [Premiere] of my 
 poem: https://www.youtube.com/watch?v=TZC7TQ2MCUg [Mary's Nightmare to Coheed and Cambria]_
-NOTE1: Taylor Swift being ALL is 100% - mine FEELING is 21 iterations (not even Percent)_
+NOTE1: Taylor Swift being ALL is 100% - mine FEELING is 21 iterations (not even Percent)_ 
 
 
 +0 Allied Goal: raise DXY //https://www.marketwatch.com/investing/index/dxy
@@ -18,7 +18,7 @@ BOND (Girl)] OR BIL [1/4 Year BOND (.GIRL)]
 + USD rises by purchase of USD (ESPECIALLY by Zero Net Worth Individuals due to Personal Leverage Factor differential relative Elon Musk)
 ++ Vicki Wahlstrom experiment on YouTube.com: Pop Can Implosion Experiment //demonstrates no vacuum: Money and Power are complements 
 + Purchasing Power Parity (PPP) increases for each American_
-+ Americans buy more_
++ Americans buy more_ 
 + Demand HIGH_
 + INFLATION HIGH_!: Inflation Is A Chick - as Women are Anomalies in the Matrix (who is a nice dude / dudette: don't help the Matrix)_
 
