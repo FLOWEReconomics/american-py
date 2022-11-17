@@ -1,8 +1,3 @@
-- Report, Brief Warrant:
--> If fire Toronto City Council, then sire Toronto Police.
-+ Doug Ford is responsible for each Toronto Police misdemeanor.
-
--> MI5 Agent, SALMAN SHUAIB - was kidnapped from Airport (witness: TP Badge 9616, 23 Division); and forcibly 
-incarcerated in psychiatric facility aided by certain doctors of the Ontario Psychiatric Association (OPA) on return 
-from trip meant to rescue Alexei Navalny from Vladimir Putin through Unarmed Provocation, 
-in the example of Jesus Christ.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25facb5ef064b58a852a566369c386464eb80cc665cf1d8dcb525c6c5a92f5c
+size 506

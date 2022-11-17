@@ -1,16 +1,3 @@
-- TOTAL: 5
-
-> salman shuaib: cowardice
-
-
-> Jesus Christ: misogyny [Apologies: ice hockey venting]
-+ ATTEMPT: 0.5
-+ SUCCESS: 1
-+ AUDIENCE: 1
-+ CONSTANCY: 0.5
-+ ENCIRCILED: 1
----------------------
-4/5
-
-> Alexei Navalny: !ContextualJustice [Apologies: ice hockekey venting]
-+ AT
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dce5c5cd76a71a5dd88a7ad2277f81ea1a3021ed8ff58dc29dd1d08ffcdc11f
+size 276

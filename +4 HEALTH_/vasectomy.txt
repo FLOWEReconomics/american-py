@@ -1,6 +1,3 @@
-- Vasectomy SCHEDULED:
-MONDAY March 6, 2023 AT 1415 HOURS: Dr. Rajiv Gupta [Urologist via EMERGENCY 
-Etobicoke General Hospital, WOHC]
-+ $150 charge for no show 
-+ 100 Humber College Blvd, Unit 302, Etobicoke, TORONTO [M9V5G4]
-+ Doctor Tele: 14167452038
+version https://git-lfs.github.com/spec/v1
+oid sha256:074740182f0eeeb30a168ea892965b0a6f616b56ee82595403dd178c0fa04f35
+size 258

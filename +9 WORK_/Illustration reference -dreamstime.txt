@@ -1,4 +1,3 @@
-- ILLUSTRATION:
-ID 203253415 © Trivision4 | Dreamstime.com
-//dreamstime_s_203253415.jpg
-///Utilized by Salman C_ Shuaib as Our YouTube emblem_
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f04b566ab39fc2ebe241e81586138b27386bcd62888a354d62902b665a1eb7f
+size 146

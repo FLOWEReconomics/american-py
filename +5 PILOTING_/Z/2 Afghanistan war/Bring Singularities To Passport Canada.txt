@@ -1,1 +1,3 @@
-- For Example: Amazon Basic Paper x500 Sheets
+version https://git-lfs.github.com/spec/v1
+oid sha256:255d10a215b864708848fcf4ece0134fb4b61bc230c2894b0a0202ace2e58bc9
+size 45

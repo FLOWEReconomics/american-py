@@ -1,3 +1,3 @@
-- TAS Bronze Lightning Strike:
-+ Google Chrome Browser (Right Click >> View page source):
-++ view-source: https://www.emojiall.com/en/emoji/%E2%9A%A1%EF%B8%8E
+version https://git-lfs.github.com/spec/v1
+oid sha256:679c8b8eca2bb8d7be3d02f2a3a8cea48e33a260e80254e170c81c839396e78d
+size 158

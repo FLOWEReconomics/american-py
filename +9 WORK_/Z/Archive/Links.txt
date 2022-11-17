@@ -1,4 +1,3 @@
-- https://www.youtube.com/watch?v=1lbg54tnj_g [TAS at #TIFF22]
-- https://stackoverflow.com/questions/33330771/git-lfs-this-exceeds-githubs-file-size-limit-of-100-00-mb
-- https://gist.github.com/john-auld/a55ffe44e9965623f530cb487e33cebd
-- https://www.msn.com/en-ca/tv/other/cameron-diaz-talks-return-to-acting-after-8-year-hiatus-during-tonight-show-appearance/ar-AA11WbCg?ocid=msedgntp&cvid=66976b9a45504bb0a0ea11a8c7ba9b78
+version https://git-lfs.github.com/spec/v1
+oid sha256:045a1947a5d910db7b8773a9b2f74d0e304b0e768db2f77094848ec8ca6600a1
+size 429

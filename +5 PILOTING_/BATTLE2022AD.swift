@@ -1,14 +1,3 @@
--> https://whatmyagenow.com/what-day-was-i-born  
--> https://www.270towin.com/2022-house-election/ //Most Competitive House Races in 2022AD.
--> https://www.270towin.com/2022-senate-election/ //pay attention dears to this list of 2022AD Senate candidates.  
--> https://www.270towin.com/2022-governor-election/  //pay attention dears to the 2022AD Column (candidates)_
--> https://edition.cnn.com/interactive/2022/10/politics/key-states-races-2022/index.html //3LVLs in SIX States
-^-> SETUP //SHE May Still Make A Way: defeating Republicans in 2022AD: Teamwork //baton pass
-
-
-
-
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:23e3bcf517451c08182ba1bbcabb295d92f1d431f1a91f0836a96b6c47e9418f
+size 593

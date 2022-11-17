@@ -1,1 +1,3 @@
-https://www.atlassian.com/git/tutorials/rewriting-history#:~:text=The%20git%20commit%20--amend%20command%20is%20a%20convenient,the%20previous%20commit%20message%20without%20changing%20its%20snapshot.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f8cc007dd2874b2ad1a046efb29e2ada0990df1a46832e3aeb4cc7a4215c4fc
+size 199

@@ -1,6 +1,3 @@
-Github[SETUPSummaries]:
-Fetch: git fetch // git merge
-Administrator: run vscode as Administrator
-Push: git push origin main
-SSH: set up Open SSH
-Large File Storage: Github LFS (Large File Storage)
+version https://git-lfs.github.com/spec/v1
+oid sha256:449f2c36302f7774bd659d198666372f6cca23504b87f9f57e333b3d06f92e44
+size 203

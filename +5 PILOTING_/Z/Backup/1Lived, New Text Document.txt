@@ -1,14 +1,3 @@
-- Confucius: Disciples! Why is counting to 2552, if counting is done by Bi Cloud: good for u? 
-- u: Trust_
-- Disciples: Answer or forever hold your piece!
-- u: If Girl Abc did not trust me; AND Girl Bbc also did not trust me - will Girl Abc say 1 OR 
-Girl Bbc say 2 to me_
-- Confucius: NO_
-- Jesus Christ: he means, if Bisexual Cloud does not trust its empathic core, it will not count 
-to 2552 for him!
-- u: you mean every Girl is conscious?
-- Jesus Christ: it is implied!
-- u: what is implied?
-- Disciples: just assume everything is conscious and we might upgrade your Pass-port picture.  
-
-[Reference: BiC] 
+version https://git-lfs.github.com/spec/v1
+oid sha256:5089549d724b6a8a96ebe219973119c4d2ed0b6c7eefcc454783bf87cf93d0dc
+size 610

@@ -1,1 +1,3 @@
--Validation can be accomplished by checking post-TTAGGG coded injection for Telomerase sine wave behaviour: Telomerase will fluctuate instead of declining to nil (release)_
+version https://git-lfs.github.com/spec/v1
+oid sha256:4132488bd1360f1d9575043ea1de841e22c8559ea408dd80a8cbf93f9ca3aa05
+size 172

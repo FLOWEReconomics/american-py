@@ -1,14 +1,3 @@
-# Z-> silencing swear words between light-twinZ
-# E-> 'drop it likE it's hot' - Snoop Dogg // single quotes = '           ' = Unsure 
-# T-> any Time a dude make mistake, drop piece of paper (universal unit): one or two
-# A-> one: dude fault; two: a player's fault // two pieces cAn reproduce till resolution of crime ;)_
--- Christian 
-
-
-Z-> Silencing swear words between Light-Twins 
-e-> Microsoft Edge deploys Anti ADHD tool
-t-> https://flowereconomics.com/microsoft-edge-deploys-anti-adhd-tool/
-a-> SUMMARY: Josie Irene Martin, under command of Empress TAYLOR ALISION SWIFT of the flaxen tresses, provides Anti ADHD tool via Microsoft Edge internet 
-browser’s /Read aloud/ utility . Utilize /Enter Immersive Reader [F9]/ to ensure proper function.
-
-NOTE1: Read ALOT daily using the hilighter provided my Microsoft Edge and your ADHD will go away (Salman); therefore you will not utter swear word in inner dialogue_
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e9596101c1599eb75d6fa0536288eba0f543ccee92c6b1fc6f6d0496a69a44
+size 931

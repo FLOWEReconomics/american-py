@@ -1,19 +1,3 @@
-import time
-
-start_time = time.time()
-seconds = input("Enter: ")
-seconds = int(seconds)
-
-if seconds > 2552:
-    print('''Bitchslap for thee_ Thou shalt not labor or make labor others more than 2552 instants_''')
-else:
-
-    while True:
-        seconds <= 2552
-        current_time = time.time()
-        elapsed_time = current_time - start_time
-        print(elapsed_time)
-        if elapsed_time > seconds:
-            print("Finished iterating in: " +
-                  str(int(elapsed_time)) + " instants")
-            break
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98bf65c84f0cd7df5b264e8f8c67802a28d560e30ae0a336c48447228d6270e
+size 545

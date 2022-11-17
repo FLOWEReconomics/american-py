@@ -1,16 +1,3 @@
--> NAME: SALMAN SHUAIB, MI5 Battalion, 7 Section ZETA Corps.
--> DOB: 1982AD JANUARY 02, SATURDAY.
--> EDUCATION: BComm (Economics & Management Science), Toronto Metropolitan University.
--> INSTAGRAM: salmanshuaib
--> TEL: +1 4168253060.
--> YOUTUBE: FlowerEconomics Videos
--> ADDRESS: 34 AQUILA COURT - Room 3, Toronto, ON  M9W 5J2.
--> EMAIL: salman.shuaib@gmail.com
--> HOUSE: Hashemite, Moon Clan.
--> SPOTIFY: salman.shuaib
--> RELIGION: Sushi Islam, Metaphysics.
--> ETHOS: Punjabi.
--> NATIONAL: Pakistan.
--> CITIZEN: Canada. 
--> DENIZEN: Earthian.
--> COSMOS: United States of America.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a815a7895bd20bf4482ca8d8739aca5f67b5005356f707ae05f54e464ee66447
+size 597
