@@ -72,7 +72,7 @@
 /+2[[:space:]]TROUBLESHOOT_/0000[[:space:]]Quantum[[:space:]]Mechanics[[:space:]]an[[:space:]]electron[[:space:]]can[[:space:]]have[[:space:]]two[[:space:]]directions[[:space:]]-[[:space:]]up[[:space:]]or[[:space:]]down[[:space:]]-[[:space:]]or[[:space:]]be[[:space:]]in[[:space:]]the[[:space:]]two[[:space:]]states[[:space:]]at[[:space:]]the[[:space:]]same[[:space:]]time[[:space:]](superposition) filter=lfs diff=lfs merge=lfs -text
 *.webm filter=lfs diff=lfs merge=lfs -text
 /+2[[:space:]]TROUBLESHOOT_/Avril[[:space:]]Lavigne[[:space:]]Greatest[[:space:]]Hits[[:space:]]Full[[:space:]]Album[[:space:]]Avril[[:space:]]Lavigne[[:space:]]'s[[:space:]]35[[:space:]]Biggest[[:space:]]Songs[[:space:]]\[360p\] filter=lfs diff=lfs merge=lfs -text
-*.mov [360p] filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
 *.html filter=lfs diff=lfs merge=lfs -text
 *.wlmp filter=lfs diff=lfs merge=lfs -text
 /+2[[:space:]]TROUBLESHOOT_/Sinclair's[[:space:]]script[[:space:]]for[[:space:]]nearly[[:space:]]200[[:space:]]right[[:space:]]leaning[[:space:]]local[[:space:]]TV[[:space:]]stations[[:space:]]\[360p\] filter=lfs diff=lfs merge=lfs -text
